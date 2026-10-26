@@ -1,0 +1,139 @@
+{
+  "status": 200,
+  "body": {
+    "card": {
+      "on_topic": true,
+      "greeting": "Welcome aboard, dear traveler; let us help you prepare for this solemn occasion in Nauru.",
+      "title": "Attending a funeral in Nauru",
+      "message": "I could not find reliable, specific funeral-etiquette guidance for Nauru in the available research.",
+      "tips": [],
+      "closing": "Thank you for traveling with us, dear traveler; your host’s guidance will be the kindest compass."
+    },
+    "usage": {
+      "input": 18253,
+      "cached": 13230,
+      "output": 402,
+      "requests": 5,
+      "cost_usd": 0.00094542,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "tool_calls": 8,
+      "checker": {
+        "input": 0,
+        "cached": 0,
+        "output": 0,
+        "cost_usd": 0.0
+      }
+    },
+    "trail": [
+      {
+        "tool": "search",
+        "query": "Nauru funeral customs",
+        "results": [
+          "List of people who have received a state funeral",
+          "Foreign relations of Taiwan",
+          "Buddhism by country",
+          "Death of Tūheitia",
+          "List of national days of mourning (2020–present)"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Nauru culture etiquette",
+        "results": [
+          "Nauruan Civil War",
+          "Tonga",
+          "National dish",
+          "Outline of dance",
+          "List of religious titles and styles"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Funeral Nauru",
+        "results": [
+          "Obesity in Nauru",
+          "Death and state funeral of Elizabeth II",
+          "Hammer DeRoburt",
+          "Kinza Clodumar",
+          "René Harris"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Nauru religion Christianity customs",
+        "results": [
+          "Religion in Africa",
+          "Religion in China",
+          "Nauru",
+          "Religion in Europe",
+          "Comparative religion"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Nauru people culture traditions",
+        "results": [
+          "Effects of mining in Nauru",
+          "Micronesians",
+          "Akua",
+          "Australian rules football in Nauru",
+          "Nauruan Civil War"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Nauru Christianity funeral customs",
+        "results": [
+          "Christianity in India",
+          "Christianity in Afghanistan",
+          "Buddhism by country",
+          "Religion in China",
+          "List of religions and spiritual traditions"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Nauru",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Nauru",
+        "page_title": "Nauru"
+      },
+      {
+        "tool": "fetch",
+        "title": "Nauru",
+        "section": "Culture",
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Nauru",
+        "page_title": "Nauru"
+      }
+    ],
+    "check": {
+      "enabled": true,
+      "before": 1,
+      "kept": 0,
+      "partly": 0,
+      "fully_checked": true,
+      "seconds": 0.0,
+      "removed": [
+        {
+          "kind": "do",
+          "tip": "It would be considerate to ask your host or the bereaved family about the service’s format and any practical requests before attending.",
+          "source_title": "Nauru",
+          "evidence": "Colonial and contemporary Western influence has largely displaced the indigenous culture.",
+          "stage": "code",
+          "reason": "simulated: removed for the zero-tip test"
+        }
+      ],
+      "model_error": null
+    },
+    "coverage": {
+      "limited": true,
+      "pages_fetched": 1,
+      "tips_shown": 0,
+      "note": "Wikipedia has limited coverage of this topic, so I can only offer a few well-sourced tips. Do also ask a local friend or your host."
+    }
+  }
+}

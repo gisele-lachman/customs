@@ -1,0 +1,12 @@
+[
+  {"id": "seoul-dinner", "situation": "Business dinner with my client's boss in Seoul", "region": "East Asia", "formality": "formal"},
+  {"id": "india-wedding", "situation": "Attending a wedding in India", "region": "South Asia", "formality": "formal"},
+  {"id": "lagos-parents", "situation": "Meeting my partner's parents in Lagos", "region": "West Africa", "formality": "family"},
+  {"id": "nauru-funeral", "situation": "Attending a funeral in Nauru", "region": "Oceania (lesser-known)", "formality": "formal"},
+  {"id": "bhutan-celebration", "situation": "Invited to a family celebration in Bhutan", "region": "South Asia (lesser-known)", "formality": "family"},
+  {"id": "munich-meeting", "situation": "First business meeting with a German company in Munich", "region": "Western Europe", "formality": "formal"},
+  {"id": "mexico-dinner", "situation": "Casual dinner at a friend's home in Mexico City", "region": "Latin America", "formality": "casual"},
+  {"id": "istanbul-mosque", "situation": "Visiting a mosque in Istanbul as a tourist", "region": "Middle East / Europe", "formality": "religious visit"},
+  {"id": "morocco-tea", "situation": "Having tea with my host family in Morocco", "region": "North Africa", "formality": "casual"},
+  {"id": "finland-sauna", "situation": "Going to the sauna with my Finnish colleagues", "region": "Northern Europe", "formality": "casual work"}
+]

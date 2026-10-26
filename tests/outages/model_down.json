@@ -1,0 +1,23 @@
+{
+  "status": 502,
+  "body": {
+    "error": "I'm so sorry, dear traveler, but I couldn't reach the AI model just now. Please try again in a moment.",
+    "visa": false,
+    "usage": {
+      "input": 0,
+      "cached": 0,
+      "output": 0,
+      "requests": 0,
+      "cost_usd": 0.0,
+      "models": [],
+      "tool_calls": 0,
+      "checker": {
+        "input": 0,
+        "cached": 0,
+        "output": 0,
+        "cost_usd": 0.0
+      }
+    },
+    "trail": []
+  }
+}

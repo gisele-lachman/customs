@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Customs: a cultural situation coach</title>
+  <link rel="icon" type="image/svg+xml" href="/static/logo.svg">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="airmail" aria-hidden="true"></div>
+  <div class="page">
+    <header class="masthead">
+      <img src="/static/logo.svg" alt="" class="logo" width="72" height="72">
+      <div>
+        <h1>Customs</h1>
+        <p class="tagline">Declare your situation. Leave with the local customs, sourced and explained.</p>
+      </div>
+    </header>
+
+    <section id="welcome" class="welcome" aria-label="A welcome from Visa">
+      <img src="/static/visa.svg" alt="Visa, your flight attendant" class="welcome-avatar" width="128" height="128">
+      <p class="welcome-bubble">Hi, my name is Visa, and I'm here to help you feel at ease wherever you're headed. Tell me where you're going or what occasion you're attending, and I'll look up the customs and etiquette, share the history behind them, and point you to where you can read more.</p>
+    </section>
+
+    <main class="layout" id="layout">
+      <aside class="places-panel" aria-label="Where to next?">
+        <details id="places" open>
+          <summary><h2 class="places-title">Where to next?</h2></summary>
+          <nav id="letters" class="letters" aria-label="Jump to letter"></nav>
+          <div id="placeList" class="place-list" tabindex="0"></div>
+        </details>
+      </aside>
+
+      <section id="mapWrap" class="map-wrap" aria-label="World map">
+        <p class="label map-caption">Click or tap a country to begin</p>
+        <div id="map" class="map"></div>
+        <p class="map-note">Borders are approximate and imply no position. Smaller countries are in the list.</p>
+      </section>
+
+      <aside id="factsPanel" class="facts-panel" hidden aria-live="polite">
+        <details id="factsDetails" open>
+          <summary class="passport-head">
+            <span class="label">Passport</span>
+            <span id="factsName" class="passport-name"></span>
+          </summary>
+          <div id="facts" class="facts"></div>
+        </details>
+        <p class="facts-disclaimer">Facts from Wikidata; may be incomplete or out of date.</p>
+      </aside>
+
+      <form id="ask" class="ask" autocomplete="off">
+        <label for="situation" class="label">Your situation</label>
+        <textarea id="situation" rows="4" maxlength="500"
+          placeholder="e.g. A business dinner with my client's boss in Seoul"></textarea>
+        <div class="ask-row">
+          <span id="count" class="label count">0 / 500</span>
+          <button id="go" type="submit">Go</button>
+        </div>
+        <div class="examples">
+          <span class="label">Try:</span>
+          <button type="button" class="example">Business dinner with my client's boss in Seoul</button>
+          <button type="button" class="example">Attending a wedding in India</button>
+          <button type="button" class="example">Meeting my partner's parents in Lagos</button>
+        </div>
+      </form>
+
+      <div id="out" class="out">
+        <button id="back" type="button" class="back" hidden>← Back to the map</button>
+        <section id="loading" class="loading" hidden aria-live="polite">
+          <div class="flight" aria-hidden="true">
+            <svg viewBox="0 0 280 70" width="280" height="70">
+              <path d="M10 55 C 80 5, 200 5, 270 45" fill="none" stroke="#6b4226" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
+            </svg>
+            <svg class="plane" viewBox="0 0 24 24" width="22" height="22">
+              <path d="M2 13 l20 -2 -20 -2 2 2z M8 11 l-3 -6 h2 l6 6z M8 11 l-3 6 h2 l6 -6z" fill="#1f5c5c"/>
+            </svg>
+          </div>
+          <p class="label loading-line"><img src="/static/visa.svg" alt="" width="28" height="28"> Visa is checking the travel manual…</p>
+        </section>
+        <section id="error" class="error" role="alert" hidden></section>
+        <section id="result" class="result" hidden aria-live="polite"></section>
+      </div>
+    </main>
+  </div>
+  <div class="airmail" aria-hidden="true"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

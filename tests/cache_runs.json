@@ -1,0 +1,250 @@
+[
+  {
+    "situation": "Business dinner with my client's boss in Seoul",
+    "mode": "normal",
+    "seconds": 20.28,
+    "agent": {
+      "input": 9215,
+      "cached": 3413,
+      "cache_write": 5424,
+      "output": 902,
+      "requests": 3,
+      "cost_usd": 0.00120093
+    },
+    "checker": {
+      "input": 883,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 198,
+      "requests": 1,
+      "cost_usd": 0.0001873
+    },
+    "total_cost_usd": 0.00138823,
+    "tool_calls": 6,
+    "tips_before": 6,
+    "tips_kept": 6,
+    "partly": 2,
+    "removed": 0,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "Attending a wedding in India",
+    "mode": "normal",
+    "seconds": 16.35,
+    "agent": {
+      "input": 11161,
+      "cached": 7841,
+      "cache_write": 2816,
+      "output": 791,
+      "requests": 4,
+      "cost_usd": 0.00087631
+    },
+    "checker": {
+      "input": 783,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 169,
+      "requests": 1,
+      "cost_usd": 0.0001628
+    },
+    "total_cost_usd": 0.00103911,
+    "tool_calls": 5,
+    "tips_before": 5,
+    "tips_kept": 5,
+    "partly": 3,
+    "removed": 0,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "First business meeting with a German company in Munich",
+    "mode": "normal",
+    "seconds": 13.72,
+    "agent": {
+      "input": 9680,
+      "cached": 4555,
+      "cache_write": 4747,
+      "output": 651,
+      "requests": 3,
+      "cost_usd": 0.00100223
+    },
+    "checker": {
+      "input": 700,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 133,
+      "requests": 1,
+      "cost_usd": 0.0001365
+    },
+    "total_cost_usd": 0.00113873,
+    "tool_calls": 6,
+    "tips_before": 4,
+    "tips_kept": 4,
+    "partly": 2,
+    "removed": 0,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "Having tea with my host family in Morocco",
+    "mode": "normal",
+    "seconds": 27.17,
+    "agent": {
+      "input": 10048,
+      "cached": 4622,
+      "cache_write": 5048,
+      "output": 851,
+      "requests": 3,
+      "cost_usd": 0.00114052
+    },
+    "checker": {
+      "input": 744,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 153,
+      "requests": 1,
+      "cost_usd": 0.0001509
+    },
+    "total_cost_usd": 0.00129142,
+    "tool_calls": 6,
+    "tips_before": 6,
+    "tips_kept": 5,
+    "partly": 2,
+    "removed": 1,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "Business dinner with my client's boss in Seoul",
+    "mode": "cache defeated",
+    "seconds": 20.04,
+    "agent": {
+      "input": 10289,
+      "cached": 0,
+      "cache_write": 9911,
+      "output": 1084,
+      "requests": 3,
+      "cost_usd": 0.00181867
+    },
+    "checker": {
+      "input": 1041,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 254,
+      "requests": 1,
+      "cost_usd": 0.0002311
+    },
+    "total_cost_usd": 0.00204977,
+    "tool_calls": 6,
+    "tips_before": 8,
+    "tips_kept": 8,
+    "partly": 2,
+    "removed": 0,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "Attending a wedding in India",
+    "mode": "cache defeated",
+    "seconds": 16.98,
+    "agent": {
+      "input": 8503,
+      "cached": 0,
+      "cache_write": 8125,
+      "output": 760,
+      "requests": 3,
+      "cost_usd": 0.00143342
+    },
+    "checker": {
+      "input": 790,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 167,
+      "requests": 1,
+      "cost_usd": 0.0001625
+    },
+    "total_cost_usd": 0.00159592,
+    "tool_calls": 6,
+    "tips_before": 5,
+    "tips_kept": 5,
+    "partly": 3,
+    "removed": 0,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "First business meeting with a German company in Munich",
+    "mode": "cache defeated",
+    "seconds": 22.48,
+    "agent": {
+      "input": 8503,
+      "cached": 0,
+      "cache_write": 8125,
+      "output": 598,
+      "requests": 3,
+      "cost_usd": 0.00135242
+    },
+    "checker": {
+      "input": 693,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 137,
+      "requests": 1,
+      "cost_usd": 0.0001378
+    },
+    "total_cost_usd": 0.00149022,
+    "tool_calls": 5,
+    "tips_before": 4,
+    "tips_kept": 3,
+    "partly": 1,
+    "removed": 1,
+    "limited_coverage": true,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  {
+    "situation": "Having tea with my host family in Morocco",
+    "mode": "cache defeated",
+    "seconds": 14.51,
+    "agent": {
+      "input": 11412,
+      "cached": 0,
+      "cache_write": 10908,
+      "output": 562,
+      "requests": 4,
+      "cost_usd": 0.0016949
+    },
+    "checker": {
+      "input": 682,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 132,
+      "requests": 1,
+      "cost_usd": 0.0001342
+    },
+    "total_cost_usd": 0.0018291,
+    "tool_calls": 4,
+    "tips_before": 4,
+    "tips_kept": 4,
+    "partly": 2,
+    "removed": 0,
+    "limited_coverage": false,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  }
+]

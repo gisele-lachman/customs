@@ -1,0 +1,434 @@
+[
+  {
+    "id": "seoul-dinner",
+    "situation": "Business dinner with my client's boss in Seoul",
+    "region": "East Asia",
+    "formality": "formal",
+    "tips_before": 7,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [
+      {
+        "tip": "Please do not assume that alcohol is expected; follow your own comfort and your host’s cues.",
+        "source_title": "Drinking culture of Korea",
+        "reason": "excerpt does not support the tip (Excerpt only notes changing drinking culture; it gives no advice about expectations.)",
+        "which": "not supported"
+      }
+    ],
+    "partly_supported": [
+      "It is considered more courteous not to stand your chopsticks upright in food or make them clatter against dishes.",
+      "Pay attention to your host’s glass and, when appropriate, offer to pour for them rather than pouring only for yourself.",
+      "If an older guest offers you a drink, receive it with both hands and a slight bow; you may turn slightly away when drinking."
+    ],
+    "tips_after": 6,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 9215,
+      "cached": 3413,
+      "cache_write": 5424,
+      "output": 985,
+      "requests": 3,
+      "cost_usd": 0.00124243,
+      "seconds": 18.06
+    },
+    "checker": {
+      "input": 943,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 210,
+      "requests": 1,
+      "cost_usd": 0.0001993,
+      "seconds": 2.21
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 20.28
+  },
+  {
+    "id": "india-wedding",
+    "situation": "Attending a wedding in India",
+    "region": "South Asia",
+    "formality": "formal",
+    "tips_before": 6,
+    "removed_by_code_check": [
+      {
+        "tip": "At a meal, observe how those around you eat and follow the household’s preference about hands or cutlery.",
+        "source_title": "Customs and etiquette in Indian dining",
+        "reason": "excerpt not found word for word on the cited page"
+      }
+    ],
+    "removed_by_model_check": [
+      {
+        "tip": "Choose festive, respectful clothing, and ask your host if a particular event has a dress expectation.",
+        "source_title": "Indian wedding clothes",
+        "reason": "excerpt does not support the tip (Excerpt describes regional variation but gives no clothing or dress guidance.)",
+        "which": "not supported"
+      }
+    ],
+    "partly_supported": [
+      "If eating with your hand, wash your hands beforehand and use the hand your hosts indicate or appear to use.",
+      "It is considered more courteous not to assume that every wedding follows Hindu rites; let the ceremony and hosts guide you."
+    ],
+    "tips_after": 4,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 7786,
+      "cached": 4271,
+      "cache_write": 3137,
+      "output": 829,
+      "requests": 3,
+      "cost_usd": 0.00088713,
+      "seconds": 20.55
+    },
+    "checker": {
+      "input": 758,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 164,
+      "requests": 1,
+      "cost_usd": 0.0001578,
+      "seconds": 1.98
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 22.53
+  },
+  {
+    "id": "lagos-parents",
+    "situation": "Meeting my partner's parents in Lagos",
+    "region": "West Africa",
+    "formality": "family",
+    "tips_before": 3,
+    "removed_by_code_check": [
+      {
+        "tip": "If you are a younger man meeting Yoruba elders, follow your partner’s cue about a respectful bow or other greeting; women’s customary greeting may involve kneeling.",
+        "source_title": "Prostration",
+        "reason": "excerpt not found word for word on the cited page"
+      },
+      {
+        "tip": "Ask your partner how their parents prefer to be greeted, since customs depend on their family and background.",
+        "source_title": "Yoruba people",
+        "reason": "excerpt not found word for word on the cited page"
+      }
+    ],
+    "removed_by_model_check": [],
+    "partly_supported": [
+      "If the family is Yoruba, greet the parents warmly; Yoruba greeting traditions place particular importance on greeting one another."
+    ],
+    "tips_after": 1,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": true,
+    "agent": {
+      "input": 15027,
+      "cached": 9883,
+      "cache_write": 4640,
+      "output": 564,
+      "requests": 4,
+      "cost_usd": 0.00101123,
+      "seconds": 53.37
+    },
+    "checker": {
+      "input": 421,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 51,
+      "requests": 1,
+      "cost_usd": 6.76e-05,
+      "seconds": 2.62
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 56.0
+  },
+  {
+    "id": "nauru-funeral",
+    "situation": "Attending a funeral in Nauru",
+    "region": "Oceania (lesser-known)",
+    "formality": "formal",
+    "tips_before": 0,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [],
+    "partly_supported": [],
+    "tips_after": 0,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": true,
+    "agent": {
+      "input": 15987,
+      "cached": 11725,
+      "cache_write": 3632,
+      "output": 256,
+      "requests": 5,
+      "cost_usd": 0.00076225,
+      "seconds": 27.2
+    },
+    "checker": {
+      "input": 0,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 0,
+      "requests": 0,
+      "cost_usd": 0.0,
+      "seconds": 0.0
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 27.2
+  },
+  {
+    "id": "bhutan-celebration",
+    "situation": "Invited to a family celebration in Bhutan",
+    "region": "South Asia (lesser-known)",
+    "formality": "family",
+    "tips_before": 5,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [],
+    "partly_supported": [
+      "It is considered courteous to ask your hosts whether traditional dress is expected for the celebration.",
+      "Accept or try the food graciously, bearing in mind that dishes and ingredients may differ by region and household.",
+      "It is considered more courteous not to assume that every family will serve the same dishes or follow identical celebration customs."
+    ],
+    "tips_after": 5,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 9687,
+      "cached": 4635,
+      "cache_write": 4674,
+      "output": 790,
+      "requests": 3,
+      "cost_usd": 0.0010634,
+      "seconds": 15.12
+    },
+    "checker": {
+      "input": 793,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 160,
+      "requests": 1,
+      "cost_usd": 0.0001593,
+      "seconds": 2.15
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 17.27
+  },
+  {
+    "id": "munich-meeting",
+    "situation": "First business meeting with a German company in Munich",
+    "region": "Western Europe",
+    "formality": "formal",
+    "tips_before": 4,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [
+      {
+        "tip": "If the meeting includes a meal, let the occasion and your hosts guide your choices, as cuisine differs considerably across German regions.",
+        "source_title": "German cuisine",
+        "reason": "excerpt does not support the tip (Excerpt establishes regional cuisine differences, not host-guided meal choices.)",
+        "which": "not supported"
+      }
+    ],
+    "partly_supported": [
+      "Keep in mind that customs and expectations may differ by region; Bavarian businesspeople may have local preferences of their own."
+    ],
+    "tips_after": 3,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": true,
+    "agent": {
+      "input": 9696,
+      "cached": 4563,
+      "cache_write": 4755,
+      "output": 641,
+      "requests": 3,
+      "cost_usd": 0.00099831,
+      "seconds": 14.71
+    },
+    "checker": {
+      "input": 692,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 132,
+      "requests": 1,
+      "cost_usd": 0.0001352,
+      "seconds": 1.95
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 16.66
+  },
+  {
+    "id": "mexico-dinner",
+    "situation": "Casual dinner at a friend's home in Mexico City",
+    "region": "Latin America",
+    "formality": "casual",
+    "tips_before": 4,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [],
+    "partly_supported": [
+      "If you enjoy chile, try the salsa offered alongside the meal; ask your host about its heat if you are unsure.",
+      "It is considered more courteous not to assume that every dish will be very spicy; Mexico’s cuisine includes a wide range of flavors.",
+      "Follow your host’s lead on what is served and how the meal is arranged; home meals and dishes differ across households and regions."
+    ],
+    "tips_after": 4,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 8243,
+      "cached": 4590,
+      "cache_write": 3275,
+      "output": 631,
+      "requests": 3,
+      "cost_usd": 0.00080858,
+      "seconds": 18.78
+    },
+    "checker": {
+      "input": 687,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 139,
+      "requests": 1,
+      "cost_usd": 0.0001382,
+      "seconds": 2.89
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 21.68
+  },
+  {
+    "id": "istanbul-mosque",
+    "situation": "Visiting a mosque in Istanbul as a tourist",
+    "region": "Middle East / Europe",
+    "formality": "religious visit",
+    "tips_before": 4,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [],
+    "partly_supported": [
+      "Keep your voice low and be mindful that the building is an active place of worship, not solely a tourist attraction.",
+      "It is considered more courteous not to enter areas marked as restricted, or to interrupt people who are praying."
+    ],
+    "tips_after": 4,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 14061,
+      "cached": 9285,
+      "cache_write": 4272,
+      "output": 666,
+      "requests": 4,
+      "cost_usd": 0.00101025,
+      "seconds": 15.63
+    },
+    "checker": {
+      "input": 704,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 131,
+      "requests": 1,
+      "cost_usd": 0.0001359,
+      "seconds": 1.76
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 17.39
+  },
+  {
+    "id": "morocco-tea",
+    "situation": "Having tea with my host family in Morocco",
+    "region": "North Africa",
+    "formality": "casual",
+    "tips_before": 6,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [],
+    "partly_supported": [
+      "Accept and enjoy the tea as a gesture of welcome, and allow time for the shared moment.",
+      "Expect more than one serving, and take each glass as it is offered if you would like to continue.",
+      "Receive the tea appreciatively; the host’s preparation and offering are part of the act of hospitality.",
+      "Be open to the tea’s sweetness and changing flavor from one glass to the next.",
+      "If tea is accompanied by food, follow your hosts’ lead; communal eating is customary at social gatherings.",
+      "It is considered more courteous not to assume every family serves tea in precisely the same way."
+    ],
+    "tips_after": 6,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 10048,
+      "cached": 4622,
+      "cache_write": 5048,
+      "output": 837,
+      "requests": 3,
+      "cost_usd": 0.00113352,
+      "seconds": 15.99
+    },
+    "checker": {
+      "input": 818,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 191,
+      "requests": 1,
+      "cost_usd": 0.0001773,
+      "seconds": 2.59
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 18.58
+  },
+  {
+    "id": "finland-sauna",
+    "situation": "Going to the sauna with my Finnish colleagues",
+    "region": "Northern Europe",
+    "formality": "casual work",
+    "tips_before": 6,
+    "removed_by_code_check": [],
+    "removed_by_model_check": [],
+    "partly_supported": [
+      "It is considered courteous to ask your hosts about their sauna’s arrangements, including whether it is shared or separated by gender and what they prefer guests to wear.",
+      "If you would like the sauna hotter or more humid, ask before adding water to the stove stones.",
+      "Choose a lower bench if you prefer less heat, and feel free to take breaks according to your comfort.",
+      "Treat the invitation as a meaningful shared activity; Finnish sauna culture is part of everyday life and national identity."
+    ],
+    "tips_after": 6,
+    "fully_checked": true,
+    "model_check_error": null,
+    "limited_coverage": false,
+    "agent": {
+      "input": 15178,
+      "cached": 9641,
+      "cache_write": 5033,
+      "output": 747,
+      "requests": 4,
+      "cost_usd": 0.00114943,
+      "seconds": 23.21
+    },
+    "checker": {
+      "input": 791,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 188,
+      "requests": 1,
+      "cost_usd": 0.0001731,
+      "seconds": 2.71
+    },
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "seconds_total": 25.93
+  }
+]

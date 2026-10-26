@@ -1,0 +1,40 @@
+Situation: wedding in India
+Captured before the Visa/tone changes (same run as evidence/tone_before.png).
+
+Title: Attending a wedding in India
+
+1. [DO] Ask the hosts what ceremonies and dress expectations apply; customs differ by community, region, and religion.
+   Why: Indian weddings encompass varied rituals and celebrations shaped by the couple’s community, region, religion, and preferences.
+   Evidence: "rituals that depend on the community, region and religion of the bride and the groom"
+   Source: Weddings in India (https://en.wikipedia.org/wiki/Weddings_in_India)
+   Variation: varies
+
+2. [DO] Expect a festive event that may include colorful decoration, music, dancing, and distinctive outfits.
+   Why: These are commonly prominent features of Indian wedding celebrations, though each event is distinctive.
+   Evidence: "usually celebrated with extensive decorations, color, music, dance, outfits and rituals"
+   Source: Weddings in India (https://en.wikipedia.org/wiki/Weddings_in_India)
+   Variation: widely followed
+
+3. [DO] Be prepared for multiple ceremonies or a long celebration, rather than assuming there is only one brief service.
+   Why: Hindu wedding celebrations may span several days, and rituals vary across regions and communities.
+   Evidence: "The wedding celebrations may last for several days"
+   Source: Wedding (https://en.wikipedia.org/wiki/Wedding)
+   Variation: varies
+
+4. [DONT] Don’t assume the visible ceremony is the only or main religious portion; follow the hosts’ guidance about when and where to participate.
+   Why: In some Hindu weddings, guests may see a short public ceremony, while religious rites take place later with close friends and relatives.
+   Evidence: "The religious part (if applicable) comes hours later, witnessed by close friends and relatives."
+   Source: Wedding (https://en.wikipedia.org/wiki/Wedding)
+   Variation: varies
+
+5. [DO] If attending a Hindu ceremony, be ready to observe rituals such as exchanging garlands, while taking cues from the hosts about guest participation.
+   Why: Garlanding is described as part of the Hindu wedding ceremony, alongside other rites whose form differs across communities.
+   Evidence: "the bride and the bridegroom garland each other in front of the guests."
+   Source: Wedding (https://en.wikipedia.org/wiki/Wedding)
+   Variation: varies
+
+6. [DO] Expect the format to depend on the couple’s faith; Sikh, Muslim, Christian, and Hindu ceremonies may differ substantially.
+   Why: Indian weddings include distinct religious forms, such as Anand Karaj, Nikah, Christian marriage customs, and Hindu rites.
+   Evidence: "Indian Muslims celebrate a traditional Islamic wedding, with rituals including Nikah"
+   Source: Weddings in India (https://en.wikipedia.org/wiki/Weddings_in_India)
+   Variation: varies

@@ -1,0 +1,166 @@
+{
+  "status": 200,
+  "body": {
+    "card": {
+      "on_topic": true,
+      "greeting": "Welcome aboard, dear traveler; let us prepare you for a gracious tea visit in Morocco.",
+      "title": "Tea with a host family in Morocco",
+      "message": "",
+      "tips": [
+        {
+          "kind": "do",
+          "tip": "Accept and enjoy the tea as a gesture of welcome, and allow time for the shared moment.",
+          "why": "Mint tea is closely associated with social life in the Maghreb and is offered to guests as hospitality; traditional Moroccan gatherings also center on ceremonial tea service.",
+          "source_title": "Maghrebi mint tea",
+          "source_url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+          "evidence": "Mint tea is central to social life in the Maghreb and is very popular among the Tuareg people",
+          "variation": "widely followed",
+          "support": "unchecked"
+        },
+        {
+          "kind": "do",
+          "tip": "Expect more than one serving, and take each glass as it is offered if you would like to continue.",
+          "why": "Serving tea in several rounds is part of the traditional guest service, with each glass taking on a different flavor as it steeps.",
+          "source_title": "Maghrebi mint tea",
+          "source_url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+          "evidence": "Typically, at least three glasses of tea are served.",
+          "variation": "varies",
+          "support": "unchecked"
+        },
+        {
+          "kind": "do",
+          "tip": "Receive the tea appreciatively; the host’s preparation and offering are part of the act of hospitality.",
+          "why": "Tea service has a ceremonial form when prepared for a guest, and offering it is described as a sign of hospitality.",
+          "source_title": "Maghrebi mint tea",
+          "source_url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+          "evidence": "The serving can take a ceremonial form, especially when prepared for a guest.",
+          "variation": "varies",
+          "support": "unchecked"
+        },
+        {
+          "kind": "do",
+          "tip": "Be open to the tea’s sweetness and changing flavor from one glass to the next.",
+          "why": "Sugar is a basic ingredient, while leaves remain in the pot as the tea is served, changing the flavor between glasses.",
+          "source_title": "Maghrebi mint tea",
+          "source_url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+          "evidence": "The leaves are left in the pot while the tea is consumed, changing the flavor from one glass to the next.",
+          "variation": "varies",
+          "support": "unchecked"
+        },
+        {
+          "kind": "do",
+          "tip": "If tea is accompanied by food, follow your hosts’ lead; communal eating is customary at social gatherings.",
+          "why": "Moroccan food traditions emphasize communal meals alongside the ceremonial serving of tea at gatherings.",
+          "source_title": "Moroccan cuisine",
+          "source_url": "https://en.wikipedia.org/wiki/Moroccan_cuisine",
+          "evidence": "Traditional communal eating habits and ceremonial tea service are central to social gatherings.",
+          "variation": "widely followed",
+          "support": "unchecked"
+        },
+        {
+          "kind": "dont",
+          "tip": "It is considered more courteous not to assume every family serves tea in precisely the same way.",
+          "why": "Tea ingredients and brewing time differ, and Moroccan tea may also be perfumed with additional herbs, flowers, or orange blossom water.",
+          "source_title": "Maghrebi mint tea",
+          "source_url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+          "evidence": "The proportions of the ingredients and the brewing time can vary widely.",
+          "variation": "varies",
+          "support": "unchecked"
+        }
+      ],
+      "closing": "Thank you for traveling with us, dear traveler; your host’s own guidance is always the finest guide."
+    },
+    "usage": {
+      "input": 10048,
+      "cached": 4622,
+      "output": 837,
+      "requests": 3,
+      "cost_usd": 0.00113352,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "tool_calls": 6,
+      "checker": {
+        "input": 0,
+        "cached": 0,
+        "output": 0,
+        "cost_usd": 0.0
+      }
+    },
+    "trail": [
+      {
+        "tool": "search",
+        "query": "Etiquette in Morocco",
+        "results": [
+          "Minhag",
+          "Adab (Islam)",
+          "Bidet shower",
+          "Handshake",
+          "Tea dance"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Moroccan tea culture",
+        "results": [
+          "Maghrebi mint tea",
+          "Tea culture",
+          "Moroccan cuisine",
+          "Culture of Morocco",
+          "Arabic tea"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Moroccan cuisine tea hospitality",
+        "results": [
+          "Maghrebi mint tea",
+          "Arab cuisine",
+          "Arabic tea",
+          "Middle Eastern cuisine",
+          "Eastern Arabian cuisine"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Maghrebi mint tea",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+        "page_title": "Maghrebi mint tea"
+      },
+      {
+        "tool": "fetch",
+        "title": "Moroccan cuisine",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Moroccan_cuisine",
+        "page_title": "Moroccan cuisine"
+      },
+      {
+        "tool": "fetch",
+        "title": "Culture of Morocco",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Culture_of_Morocco",
+        "page_title": "Culture of Morocco"
+      }
+    ],
+    "check": {
+      "enabled": true,
+      "before": 6,
+      "kept": 6,
+      "partly": 0,
+      "fully_checked": false,
+      "seconds": 0.0,
+      "removed": [],
+      "model_error": "RuntimeError"
+    },
+    "coverage": {
+      "limited": false,
+      "pages_fetched": 3,
+      "tips_shown": 6,
+      "note": null
+    }
+  }
+}

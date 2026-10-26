@@ -1,0 +1,2 @@
+# Only needed to rebuild static/map.svg (scripts/build_map.py). The app itself does not need it.
+shapely==2.2.0

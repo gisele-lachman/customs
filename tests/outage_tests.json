@@ -1,0 +1,48 @@
+[
+  {
+    "test": "Wikipedia down",
+    "status": 502,
+    "message": "Wikipedia couldn't be reached, so there are no sourced tips. Please try again.",
+    "logged": [
+      "error: Wikipedia couldn't be reached, so there are no sourced tips. Please try again."
+    ],
+    "pass": true
+  },
+  {
+    "test": "model call failing",
+    "status": 502,
+    "message": "I'm so sorry, dear traveler, but I couldn't reach the AI model just now. Please try again in a moment.",
+    "logged": [
+      "error: I'm so sorry, dear traveler, but I couldn't reach the AI model just now. Please try again in a moment."
+    ],
+    "pass": true
+  },
+  {
+    "test": "model check failing",
+    "status": 200,
+    "fully_checked": false,
+    "tips_shown": 6,
+    "supports": [
+      "unchecked"
+    ],
+    "logged": [
+      "ok"
+    ],
+    "pass": true
+  },
+  {
+    "test": "zero-tip result",
+    "status": 200,
+    "tips_shown": 0,
+    "coverage": {
+      "limited": true,
+      "pages_fetched": 1,
+      "tips_shown": 0,
+      "note": "Wikipedia has limited coverage of this topic, so I can only offer a few well-sourced tips. Do also ask a local friend or your host."
+    },
+    "logged": [
+      "ok"
+    ],
+    "pass": true
+  }
+]

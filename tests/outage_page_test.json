@@ -1,0 +1,50 @@
+[
+  {
+    "case": "wikipedia_down",
+    "http_status": 502,
+    "expected_text": "Wikipedia couldn't be reached",
+    "pass": true,
+    "page_text": "Couldn't stamp this one. Wikipedia couldn't be reached, so there are no sourced tips. Please try again.",
+    "cardTitle": null,
+    "tips": 0,
+    "goEnabled": true,
+    "backButton": true,
+    "page_errors": []
+  },
+  {
+    "case": "model_down",
+    "http_status": 502,
+    "expected_text": "couldn't reach the AI model",
+    "pass": true,
+    "page_text": "Couldn't stamp this one. I'm so sorry, dear traveler, but I couldn't reach the AI model just now. Please try again in a moment.",
+    "cardTitle": null,
+    "tips": 0,
+    "goEnabled": true,
+    "backButton": true,
+    "page_errors": []
+  },
+  {
+    "case": "model_check_failed",
+    "http_status": 200,
+    "expected_text": "Not fully checked",
+    "pass": true,
+    "page_text": "Welcome aboard, dear traveler; let us prepare you for a gracious tea visit in Morocco.\n\nTea with a host family in Morocco\n\n✓ Checked against Wikipedia word for word: 6 of 6 tips passed\n\nNot fully checked: the second check didn't finish, so these tips passed only the word-for-word check.\n\nSTAMPED\n✓ Do\n\nAccept and enjoy the tea as a gesture of welcome, and allow time for the shared moment.\n\nWHY: Mint tea is closely associated with social life in the Maghreb and is offered to guests as hospitality; traditional Moroccan gatherings also center on ceremonial tea service.\n\n“Mint tea is central to soc",
+    "cardTitle": "Tea with a host family in Morocco",
+    "tips": 6,
+    "goEnabled": true,
+    "backButton": true,
+    "page_errors": []
+  },
+  {
+    "case": "zero_tips",
+    "http_status": 200,
+    "expected_text": "Wikipedia has limited coverage of this topic",
+    "pass": true,
+    "page_text": "Welcome aboard, dear traveler; let us help you prepare for this solemn occasion in Nauru.\n\nAttending a funeral in Nauru\n\nI could not find reliable, specific funeral-etiquette guidance for Nauru in the available research.\n\n✓ Checked against Wikipedia: 0 of 1 tips verified, 1 removed\n\nRemoved tips (1)\n\nA NOTE FROM VISA\nWikipedia has limited coverage of this topic, so I can only offer a few well-sourced tips. Do also ask a local friend or your host.\n\nPractices differ by region, family and generation. Your host's own guidance always comes first.\n\nThank you for traveling with us, dear traveler; you",
+    "cardTitle": "Attending a funeral in Nauru",
+    "tips": 0,
+    "goEnabled": true,
+    "backButton": true,
+    "page_errors": []
+  }
+]

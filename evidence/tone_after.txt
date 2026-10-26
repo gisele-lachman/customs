@@ -1,0 +1,39 @@
+Situation: wedding in India
+Captured after the Visa/tone changes (same run as evidence/tone_after.png).
+
+Visa greeting: Welcome aboard, dear traveler; let us prepare you for a wedding celebration in India.
+Title: Attending a wedding in India
+Limited coverage note: not shown (3 pages fetched, 5 tips shown)
+
+1. [DO] Please check with your hosts about the ceremony’s customs and schedule, as celebrations can span several days and vary by community, region, and religion.
+   Why: Indian wedding celebrations encompass diverse regional and religious traditions, and Hindu ceremonies also vary with local and family practices.
+   Evidence: "rituals that depend on the community, region and religion of the bride and the groom"
+   Source: Weddings in India (https://en.wikipedia.org/wiki/Weddings_in_India)
+   Variation: varies
+
+2. [DO] If invited to a Hindu ceremony, respectfully follow the hosts’ cues during rituals around the sacred fire and the couple’s vows.
+   Why: In Hindu traditions, marriage is understood as a significant life rite, with key ceremonies symbolizing union and shared commitments.
+   Evidence: "taking seven steps before fire with each step including a set of mutual vows"
+   Source: Weddings in India (https://en.wikipedia.org/wiki/Weddings_in_India)
+   Variation: varies
+
+3. [DO] Allow for a lively, multi-part celebration, and follow your hosts’ guidance on when and where to join in.
+   Why: Many Hindu wedding celebrations extend over several days and bring together large numbers of participants.
+   Evidence: "The weddings celebrations may extend for several days and involve large number of participants."
+   Source: Hindu wedding (https://en.wikipedia.org/wiki/Hindu_wedding)
+   Variation: varies
+
+4. [DO] At a meal, follow the host’s lead about eating with your hands or using cutlery.
+   Why: Indian dining customs differ by region, and hand-eating remains a traditional practice in some places while cutlery is common in others.
+   Evidence: "with the use of minimal cutlery (practice followed in some parts of India, in other parts cutlery use is common)."
+   Source: Customs and etiquette in Indian dining (https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Indian_dining)
+   Variation: varies
+
+5. [DO] If others are eating with their hands, you may follow their example and use your dominant hand.
+   Why: In areas where people eat with their fingers, the usual practice described is to eat with one hand and keep the other dry.
+   Evidence: "when eating with the help of one's fingers, only one hand is used for eating (the dominant hand)"
+   Source: Customs and etiquette in Indian dining (https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Indian_dining)
+   Variation: varies
+
+Host reminder: Practices differ by region, family and generation. Your host's own guidance always comes first.
+Visa closing: May you enjoy a memorable celebration, dear traveler, and please let your hosts’ guidance take precedence.

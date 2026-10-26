@@ -1,0 +1,36 @@
+{
+  "status": 502,
+  "body": {
+    "error": "Wikipedia couldn't be reached, so there are no sourced tips. Please try again.",
+    "visa": false,
+    "usage": {
+      "input": 2735,
+      "cached": 2378,
+      "output": 141,
+      "requests": 2,
+      "cost_usd": 0.00013261,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "tool_calls": 2,
+      "checker": {
+        "input": 0,
+        "cached": 0,
+        "output": 0,
+        "cost_usd": 0.0
+      }
+    },
+    "trail": [
+      {
+        "tool": "search",
+        "query": "Wedding in India",
+        "error": "Wikipedia search failed (ConnectError)"
+      },
+      {
+        "tool": "search",
+        "query": "Etiquette in India",
+        "error": "Wikipedia search failed (ConnectError)"
+      }
+    ]
+  }
+}

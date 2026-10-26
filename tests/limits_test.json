@@ -1,0 +1,133 @@
+[
+  {
+    "limit": "daily spending cap",
+    "env": {
+      "CUSTOMS_DAILY_BUDGET_USD": "0.0000001"
+    },
+    "situation": "Business dinner with my client's boss in Seoul",
+    "expect": "refused before any model call",
+    "status": 429,
+    "message_on_page": "I'm terribly sorry, dear traveler, but Customs has used its travel budget for today. Do come back tomorrow, and I'll gladly look things up for you then.",
+    "visa_bubble": true,
+    "new_log_entries": [
+      {
+        "outcome": "refused: daily budget reached",
+        "requests": 0,
+        "cost_usd": 0.0
+      }
+    ],
+    "model_requests_made": 0,
+    "usage_reported": null,
+    "pass": true
+  },
+  {
+    "limit": "per-visitor runs per hour",
+    "env": {
+      "CUSTOMS_RUNS_PER_HOUR_PER_VISITOR": "0"
+    },
+    "situation": "Attending a wedding in India",
+    "expect": "refused before any model call",
+    "status": 429,
+    "message_on_page": "My, you have been a busy traveler! You've asked 0 questions this past hour, which is my limit for now. Please rest a moment and try again in about 60 minutes.",
+    "visa_bubble": true,
+    "new_log_entries": [
+      {
+        "outcome": "refused: visitor hourly limit reached",
+        "requests": 0,
+        "cost_usd": 0.0
+      }
+    ],
+    "model_requests_made": 0,
+    "usage_reported": null,
+    "pass": true
+  },
+  {
+    "limit": "input length",
+    "env": {
+      "CUSTOMS_MAX_SITUATION_CHARS": "10"
+    },
+    "situation": "example:Meeting my partner's parents in Lagos",
+    "expect": "refused before any model call",
+    "status": 400,
+    "message_on_page": "That's a rather long itinerary, dear traveler. Could you describe your situation in 10 characters or fewer? (Yours is 37.)",
+    "visa_bubble": true,
+    "new_log_entries": [],
+    "model_requests_made": 0,
+    "usage_reported": null,
+    "pass": true
+  },
+  {
+    "limit": "tool calls per run = 1",
+    "env": {
+      "CUSTOMS_MAX_TOOL_CALLS": "1"
+    },
+    "situation": "Business dinner with my client's boss in Seoul",
+    "expect": "run stops gracefully with a message",
+    "status": 422,
+    "message_on_page": "I'm afraid this one needed more looking-up than I'm allowed on a single trip. Could you describe the situation a little more narrowly, and I'll try again?",
+    "visa_bubble": true,
+    "new_log_entries": [
+      {
+        "outcome": "error: I'm afraid this one needed more looking-up than I'm allowed on a single trip. Could you describe the situation a little more narrowly, and I'll try again?",
+        "requests": 1,
+        "cost_usd": 0.0001996
+      }
+    ],
+    "model_requests_made": 1,
+    "usage_reported": {
+      "input": 1322,
+      "cached": 0,
+      "output": 75,
+      "requests": 1,
+      "cost_usd": 0.0001996,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "tool_calls": 0,
+      "checker": {
+        "input": 0,
+        "cached": 0,
+        "output": 0,
+        "cost_usd": 0.0
+      }
+    },
+    "pass": true
+  },
+  {
+    "limit": "model requests per run = 1",
+    "env": {
+      "CUSTOMS_MAX_MODEL_REQUESTS": "1"
+    },
+    "situation": "Attending a wedding in India",
+    "expect": "run stops gracefully with a message",
+    "status": 422,
+    "message_on_page": "I'm afraid this one needed more looking-up than I'm allowed on a single trip. Could you describe the situation a little more narrowly, and I'll try again?",
+    "visa_bubble": true,
+    "new_log_entries": [
+      {
+        "outcome": "error: I'm afraid this one needed more looking-up than I'm allowed on a single trip. Could you describe the situation a little more narrowly, and I'll try again?",
+        "requests": 1,
+        "cost_usd": 5.219e-05
+      }
+    ],
+    "model_requests_made": 1,
+    "usage_reported": {
+      "input": 1320,
+      "cached": 1184,
+      "output": 53,
+      "requests": 1,
+      "cost_usd": 5.219e-05,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "tool_calls": 2,
+      "checker": {
+        "input": 0,
+        "cached": 0,
+        "output": 0,
+        "cost_usd": 0.0
+      }
+    },
+    "pass": true
+  }
+]

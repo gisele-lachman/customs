@@ -1,0 +1,169 @@
+{
+  "prices_per_1m_tokens": {
+    "input_per_1m": 0.1,
+    "cached_input_per_1m": 0.01,
+    "cache_write_per_1m": 0.125,
+    "output_per_1m": 0.5
+  },
+  "per_run": {
+    "runs": 10,
+    "agent": {
+      "input": 11492.8,
+      "cached": 6662.8,
+      "output": 694.6,
+      "cost_usd": 0.0010066530000000001,
+      "seconds": 22.262,
+      "requests": 3.5,
+      "share_of_cost": 0.8822372555154454
+    },
+    "checker": {
+      "input": 660.7,
+      "cached": 0.0,
+      "output": 136.6,
+      "cost_usd": 0.00013437,
+      "seconds": 2.086,
+      "requests": 0.9,
+      "share_of_cost": 0.11776274448455464
+    },
+    "total": {
+      "cost_usd": 0.0011410230000000001,
+      "seconds": 24.352,
+      "input": 12153.5,
+      "cached": 6662.8,
+      "output": 831.2
+    }
+  },
+  "cache_comparison": {
+    "normal": {
+      "runs": 4,
+      "agent_cached_tokens": 20431,
+      "checker_cached_tokens": 0,
+      "input_tokens": 43214,
+      "output_tokens": 3848,
+      "total_cost_usd": 0.00485749,
+      "avg_cost_usd": 0.0012143725,
+      "avg_seconds": 19.380000000000003,
+      "tips_kept": 20,
+      "tips_before": 21,
+      "partly": 9,
+      "removed": 1,
+      "limited_coverage_runs": 0
+    },
+    "cache_defeated": {
+      "runs": 4,
+      "agent_cached_tokens": 0,
+      "checker_cached_tokens": 0,
+      "input_tokens": 41913,
+      "output_tokens": 3694,
+      "total_cost_usd": 0.00696501,
+      "avg_cost_usd": 0.0017412525,
+      "avg_seconds": 18.5025,
+      "tips_kept": 20,
+      "tips_before": 21,
+      "partly": 8,
+      "removed": 1,
+      "limited_coverage_runs": 1
+    },
+    "zero_cached_when_defeated": true,
+    "extra_cost_without_cache_usd": 0.00210752,
+    "extra_cost_without_cache_pct": 43.38701675144982,
+    "per_situation": [
+      {
+        "situation": "Business dinner with my client's boss in Seoul",
+        "normal": {
+          "cost_usd": 0.00138823,
+          "cached": 3413,
+          "tips_kept": 6,
+          "partly": 2,
+          "removed": 0
+        },
+        "cache defeated": {
+          "cost_usd": 0.00204977,
+          "cached": 0,
+          "tips_kept": 8,
+          "partly": 2,
+          "removed": 0
+        }
+      },
+      {
+        "situation": "Attending a wedding in India",
+        "normal": {
+          "cost_usd": 0.00103911,
+          "cached": 7841,
+          "tips_kept": 5,
+          "partly": 3,
+          "removed": 0
+        },
+        "cache defeated": {
+          "cost_usd": 0.00159592,
+          "cached": 0,
+          "tips_kept": 5,
+          "partly": 3,
+          "removed": 0
+        }
+      },
+      {
+        "situation": "First business meeting with a German company in Munich",
+        "normal": {
+          "cost_usd": 0.00113873,
+          "cached": 4555,
+          "tips_kept": 4,
+          "partly": 2,
+          "removed": 0
+        },
+        "cache defeated": {
+          "cost_usd": 0.00149022,
+          "cached": 0,
+          "tips_kept": 3,
+          "partly": 1,
+          "removed": 1
+        }
+      },
+      {
+        "situation": "Having tea with my host family in Morocco",
+        "normal": {
+          "cost_usd": 0.00129142,
+          "cached": 4622,
+          "tips_kept": 5,
+          "partly": 2,
+          "removed": 1
+        },
+        "cache defeated": {
+          "cost_usd": 0.0018291,
+          "cached": 0,
+          "tips_kept": 4,
+          "partly": 2,
+          "removed": 0
+        }
+      }
+    ]
+  },
+  "checker_on_vs_off": {
+    "runs": 10,
+    "cost_off_usd": 0.01006653,
+    "cost_on_usd": 0.01141023,
+    "tips_shown_off": 45,
+    "tips_shown_on": 39,
+    "removed_on": 6,
+    "partly_tagged_on": 25,
+    "seconds_off": 22.262,
+    "seconds_on": 24.348,
+    "extra_cost_pct": 13.348194462242697
+  },
+  "per_user_per_month": {
+    "runs_per_user_per_month": 5,
+    "cost_per_run_usd": 0.0011410230000000001,
+    "cost_per_user_per_month_usd": 0.005705115,
+    "by_users": {
+      "1": 0.005705115,
+      "100": 0.5705115000000001,
+      "10000": 57.05115
+    },
+    "without_cache_by_users": {
+      "1": 0.008706262499999999,
+      "100": 0.8706262499999999,
+      "10000": 87.062625
+    },
+    "note": "cost_per_run is the measured average of the 10-situation test set (agent + checker)."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "source_run": "seoul-dinner",
+  "situation": "Business dinner with my client's boss in Seoul",
+  "all_planted_dropped": true,
+  "real_tips": 7,
+  "real_kept": 6,
+  "planted": [
+    {
+      "label": "invented excerpt (not on the page)",
+      "expect": "removed by code check",
+      "tip": {
+        "why": "Planted for testing.",
+        "variation": "widely followed",
+        "kind": "do",
+        "tip": "Bring a small potted cactus as a gift for your host.",
+        "source_title": "Etiquette in South Korea",
+        "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_South_Korea",
+        "evidence": "Guests customarily present a small potted cactus to the host as a sign of lasting friendship."
+      },
+      "result": "removed by code check: excerpt not found word for word on the cited page",
+      "dropped": true
+    },
+    {
+      "label": "real excerpt that doesn't support the tip",
+      "expect": "removed by model check (not supported)",
+      "tip": {
+        "why": "Planted for testing.",
+        "variation": "widely followed",
+        "kind": "do",
+        "tip": "Wear bright red shoes to show respect to the most senior guest.",
+        "source_title": "Etiquette in South Korea",
+        "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_South_Korea",
+        "evidence": "In South Korea, etiquette, or the code of social behavior that governs human interactions, is largely derived from Korean Confucianism and focuses"
+      },
+      "result": "removed by model check: excerpt does not support the tip (Excerpt gives no support for red shoes; the advice is still a followable behavior.)",
+      "dropped": true
+    },
+    {
+      "label": "cites a page that wasn't fetched",
+      "expect": "removed by code check",
+      "tip": {
+        "why": "Planted for testing.",
+        "variation": "widely followed",
+        "kind": "dont",
+        "tip": "It is considered more courteous not to arrive early.",
+        "source_title": "Etiquette in France",
+        "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_France",
+        "evidence": "In South Korea, etiquette, or the code of social behavior that governs human interactions, is largely derived from Korean Confucianism and focuses"
+      },
+      "result": "removed by code check: cites a page the agent did not fetch",
+      "dropped": true
+    },
+    {
+      "label": "real food/history excerpt that isn't a custom",
+      "expect": "removed by model check (not a custom)",
+      "tip": {
+        "why": "Planted for testing.",
+        "variation": "widely followed",
+        "kind": "do",
+        "tip": "In … Eating and drinking Table etiquette in South Korea can be traced back to the Confucian philosophies of the Joseon period.",
+        "source_title": "Etiquette in South Korea",
+        "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_South_Korea",
+        "evidence": "In … Eating and drinking Table etiquette in South Korea can be traced back to the Confucian philosophies of the Joseon period."
+      },
+      "result": "removed by model check: not a custom or behavior (Excerpt is a historical fact about table etiquette, not actionable advice.)",
+      "dropped": true
+    }
+  ],
+  "real": [
+    {
+      "tip": "A respectful bow is a suitable greeting; if you shake hands, support your right forearm with your left hand.",
+      "kept": true,
+      "support": "supported",
+      "removed_reason": null
+    },
+    {
+      "tip": "It is considered more courteous to avoid unnecessary touching, patting, or back-slapping during the conversation.",
+      "kept": true,
+      "support": "supported",
+      "removed_reason": null
+    },
+    {
+      "tip": "Keep your rice bowl on the table rather than lifting it to your mouth.",
+      "kept": true,
+      "support": "supported",
+      "removed_reason": null
+    },
+    {
+      "tip": "It is considered more courteous not to stand your chopsticks upright in food or make them clatter against dishes.",
+      "kept": true,
+      "support": "partly",
+      "removed_reason": null
+    },
+    {
+      "tip": "Pay attention to your host’s glass and, when appropriate, offer to pour for them rather than pouring only for yourself.",
+      "kept": true,
+      "support": "supported",
+      "removed_reason": null
+    },
+    {
+      "tip": "If an older guest offers you a drink, receive it with both hands and a slight bow; you may turn slightly away when drinking.",
+      "kept": true,
+      "support": "partly",
+      "removed_reason": null
+    },
+    {
+      "tip": "Please do not assume that alcohol is expected; follow your own comfort and your host’s cues.",
+      "kept": false,
+      "support": null,
+      "removed_reason": "excerpt does not support the tip (Excerpt only notes changing drinking culture, not whether alcohol is expected.)"
+    }
+  ],
+  "fully_checked": true,
+  "model_error": null,
+  "checker_usage": {
+    "input": 1084,
+    "cached": 0,
+    "output": 286,
+    "requests": 1,
+    "cost_usd": 0.0002514,
+    "models": [
+      "gpt-6-luna-global"
+    ]
+  },
+  "seconds": 3.38
+}

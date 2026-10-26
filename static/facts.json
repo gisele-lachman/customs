@@ -1,0 +1,5348 @@
+{
+ "_meta": {
+  "built": "2026-10-26",
+  "sources": [
+   "Wikidata (query.wikidata.org)",
+   "English Wikipedia: National dish",
+   "flag-icons 7.6.0 (MIT)"
+  ]
+ },
+ "AD": {
+  "name": "Andorra",
+  "wikidata": "Q228",
+  "wikipedia_title": "Andorra",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andorra",
+  "capital": [
+   "Andorra la Vella"
+  ],
+  "languages": [
+   "Catalan"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 89752,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Escudella i carn d'olla",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AE": {
+  "name": "United Arab Emirates",
+  "wikidata": "Q878",
+  "wikipedia_title": "United Arab Emirates",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+  "capital": [
+   "Abu Dhabi"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "United Arab Emirates dirham"
+  ],
+  "population": {
+   "value": 9890400,
+   "year": 2020
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Harees",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AF": {
+  "name": "Afghanistan",
+  "wikidata": "Q889",
+  "wikipedia_title": "Afghanistan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Afghanistan",
+  "capital": [
+   "Kabul"
+  ],
+  "languages": [
+   "Arabic",
+   "Balochi",
+   "Dari",
+   "Nuristani",
+   "Pamir",
+   "Pashayi",
+   "Pashto",
+   "Turkmen",
+   "Uzbek"
+  ],
+  "currency": [
+   "afghani"
+  ],
+  "population": {
+   "value": 41454761,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Kabuli palaw",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AG": {
+  "name": "Antigua and Barbuda",
+  "wikidata": "Q781",
+  "wikipedia_title": "Antigua and Barbuda",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+  "capital": [
+   "St. John's"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "currency": [
+   "Eastern Caribbean dollar"
+  ],
+  "population": {
+   "value": 101489,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Fungee",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AL": {
+  "name": "Albania",
+  "wikidata": "Q222",
+  "wikipedia_title": "Albania",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Albania",
+  "capital": [
+   "Tirana"
+  ],
+  "languages": [
+   "Albanian"
+  ],
+  "currency": [
+   "Albanian lek"
+  ],
+  "population": {
+   "value": 2811655,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Tavë kosi",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AM": {
+  "name": "Armenia",
+  "wikidata": "Q399",
+  "wikipedia_title": "Armenia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Armenia",
+  "capital": [
+   "Yerevan"
+  ],
+  "languages": [
+   "Armenian"
+  ],
+  "currency": [
+   "Armenian dram"
+  ],
+  "population": {
+   "value": 2930450,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Khorovats",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AO": {
+  "name": "Angola",
+  "wikidata": "Q916",
+  "wikipedia_title": "Angola",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Angola",
+  "capital": [
+   "Luanda"
+  ],
+  "languages": [
+   "Portuguese"
+  ],
+  "currency": [
+   "kwanza"
+  ],
+  "population": {
+   "value": 36749906,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Moamba de galinha",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AR": {
+  "name": "Argentina",
+  "wikidata": "Q414",
+  "wikipedia_title": "Argentina",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Argentina",
+  "capital": [
+   "Buenos Aires"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Argentine convertible peso"
+  ],
+  "population": {
+   "value": 47327407,
+   "year": 2022
+  },
+  "driving_side": [
+   "left",
+   "right"
+  ],
+  "dish": {
+   "name": "Asado",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AT": {
+  "name": "Austria",
+  "wikidata": "Q40",
+  "wikipedia_title": "Austria",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Austria",
+  "capital": [
+   "Vienna"
+  ],
+  "languages": [
+   "Austrian Sign Language",
+   "German"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 8979894,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Wiener schnitzel",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AU": {
+  "name": "Australia",
+  "wikidata": "Q408",
+  "wikipedia_title": "Australia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Australia",
+  "capital": [
+   "Canberra"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Australian dollar"
+  ],
+  "population": {
+   "value": 27614411,
+   "year": 2025
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "[[Lamb",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "AZ": {
+  "name": "Azerbaijan",
+  "wikidata": "Q227",
+  "wikipedia_title": "Azerbaijan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Azerbaijan",
+  "capital": [
+   "Baku"
+  ],
+  "languages": [
+   "Azerbaijani",
+   "Azerbaijani Sign Language"
+  ],
+  "currency": [
+   "Azerbaijani manat"
+  ],
+  "population": {
+   "value": 10180770,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Dolma",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BA": {
+  "name": "Bosnia and Herzegovina",
+  "wikidata": "Q225",
+  "wikipedia_title": "Bosnia and Herzegovina",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+  "capital": [
+   "Sarajevo"
+  ],
+  "languages": [
+   "Bosnian",
+   "Croatian",
+   "Serbian"
+  ],
+  "currency": [
+   "convertible mark"
+  ],
+  "population": {
+   "value": 3816459,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Bosnian pot",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BB": {
+  "name": "Barbados",
+  "wikidata": "Q244",
+  "wikipedia_title": "Barbados",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barbados",
+  "capital": [
+   "Bridgetown"
+  ],
+  "languages": [
+   "Bajan Creole",
+   "English"
+  ],
+  "currency": [
+   "Barbadian dollar"
+  ],
+  "population": {
+   "value": 303431,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Cou-cou",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BD": {
+  "name": "Bangladesh",
+  "wikidata": "Q902",
+  "wikipedia_title": "Bangladesh",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bangladesh",
+  "capital": [
+   "Dhaka"
+  ],
+  "languages": [
+   "Bangla"
+  ],
+  "currency": [
+   "Bangladeshi taka"
+  ],
+  "population": {
+   "value": 171466990,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Rice",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BE": {
+  "name": "Belgium",
+  "wikidata": "Q31",
+  "wikipedia_title": "Belgium",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Belgium",
+  "capital": [
+   "Brussels"
+  ],
+  "languages": [
+   "Dutch",
+   "French",
+   "German"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 11825551,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "[[French fries#Belgium",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BF": {
+  "name": "Burkina Faso",
+  "wikidata": "Q965",
+  "wikipedia_title": "Burkina Faso",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Burkina_Faso",
+  "capital": [
+   "Ouagadougou"
+  ],
+  "languages": [
+   "Bissa",
+   "Dioula",
+   "Mooré"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 23025776,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Riz gras",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BG": {
+  "name": "Bulgaria",
+  "wikidata": "Q219",
+  "wikipedia_title": "Bulgaria",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bulgaria",
+  "capital": [
+   "Sofia"
+  ],
+  "languages": [
+   "Bulgarian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 6423207,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Shopska salad",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BH": {
+  "name": "Bahrain",
+  "wikidata": "Q398",
+  "wikipedia_title": "Bahrain",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bahrain",
+  "capital": [
+   "Manama"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Bahraini dinar"
+  ],
+  "population": {
+   "value": 1569666,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Kabsa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BI": {
+  "name": "Burundi",
+  "wikidata": "Q967",
+  "wikipedia_title": "Burundi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Burundi",
+  "capital": [
+   "Gitega"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Kirundi"
+  ],
+  "currency": [
+   "Burundian franc"
+  ],
+  "population": {
+   "value": 13689450,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Boko boko",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BJ": {
+  "name": "Benin",
+  "wikidata": "Q962",
+  "wikipedia_title": "Benin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Benin",
+  "capital": [
+   "Cotonou",
+   "Porto-Novo"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 14111034,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Kuli-kuli",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BN": {
+  "name": "Brunei",
+  "wikidata": "Q921",
+  "wikipedia_title": "Brunei",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brunei",
+  "capital": [
+   "Bandar Seri Begawan"
+  ],
+  "languages": [
+   "British English",
+   "Malay"
+  ],
+  "currency": [
+   "Brunei dollar"
+  ],
+  "population": {
+   "value": 458949,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Ambuyat",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BO": {
+  "name": "Bolivia",
+  "wikidata": "Q750",
+  "wikipedia_title": "Bolivia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bolivia",
+  "capital": [
+   "La Paz",
+   "Sucre"
+  ],
+  "languages": [
+   "Aymara",
+   "Guarani",
+   "Quechua",
+   "Spanish"
+  ],
+  "currency": [
+   "boliviano"
+  ],
+  "population": {
+   "value": 12244159,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Salteñas",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BR": {
+  "name": "Brazil",
+  "wikidata": "Q155",
+  "wikipedia_title": "Brazil",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brazil",
+  "capital": [
+   "Brasília"
+  ],
+  "languages": [
+   "Portuguese"
+  ],
+  "currency": [
+   "Brazilian real"
+  ],
+  "population": {
+   "value": 214211951,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Feijoada",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BS": {
+  "name": "Bahamas",
+  "wikidata": "Q778",
+  "wikipedia_title": "The Bahamas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Bahamas",
+  "capital": [
+   "Nassau"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Bahamian dollar"
+  ],
+  "population": {
+   "value": 399440,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Crack conch",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BT": {
+  "name": "Bhutan",
+  "wikidata": "Q917",
+  "wikipedia_title": "Bhutan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bhutan",
+  "capital": [
+   "Thimphu"
+  ],
+  "languages": [
+   "Dzongkha"
+  ],
+  "currency": [
+   "ngultrum"
+  ],
+  "population": {
+   "value": 787424,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Ema datshi",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BW": {
+  "name": "Botswana",
+  "wikidata": "Q963",
+  "wikipedia_title": "Botswana",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Botswana",
+  "capital": [
+   "Gaborone"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Botswana pula"
+  ],
+  "population": {
+   "value": 2480244,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Seswaa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BY": {
+  "name": "Belarus",
+  "wikidata": "Q184",
+  "wikipedia_title": "Belarus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Belarus",
+  "capital": [
+   "Minsk"
+  ],
+  "languages": [
+   "Belarusian",
+   "Russian"
+  ],
+  "currency": [
+   "Belarusian ruble"
+  ],
+  "population": {
+   "value": 9056080,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Draniki",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "BZ": {
+  "name": "Belize",
+  "wikidata": "Q242",
+  "wikipedia_title": "Belize",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Belize",
+  "capital": [
+   "Belmopan"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Belize dollar"
+  ],
+  "population": {
+   "value": 411106,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "[[rice",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CA": {
+  "name": "Canada",
+  "wikidata": "Q16",
+  "wikipedia_title": "Canada",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Canada",
+  "capital": [
+   "Ottawa"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currency": [
+   "Canadian dollar"
+  ],
+  "population": {
+   "value": 36991981,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Poutine",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CD": {
+  "name": "Democratic Republic of the Congo",
+  "wikidata": "Q974",
+  "wikipedia_title": "Democratic Republic of the Congo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+  "capital": [
+   "Kinshasa"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "Congolese franc"
+  ],
+  "population": {
+   "value": 105789731,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Poulet à la moambé",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CF": {
+  "name": "Central African Republic",
+  "wikidata": "Q929",
+  "wikipedia_title": "Central African Republic",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Central_African_Republic",
+  "capital": [
+   "Bangui"
+  ],
+  "languages": [
+   "French",
+   "Sango"
+  ],
+  "currency": [
+   "Central African CFA franc"
+  ],
+  "population": {
+   "value": 5152421,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Cassava",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CG": {
+  "name": "Republic of the Congo",
+  "wikidata": "Q971",
+  "wikipedia_title": "Republic of the Congo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+  "capital": [
+   "Brazzaville"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "Central African CFA franc"
+  ],
+  "population": {
+   "value": 6142180,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Poulet moambé",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CH": {
+  "name": "Switzerland",
+  "wikidata": "Q39",
+  "wikipedia_title": "Switzerland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Switzerland",
+  "capital": [
+   "Bern"
+  ],
+  "languages": [
+   "French",
+   "German",
+   "Italian",
+   "Romansh"
+  ],
+  "currency": [
+   "Swiss franc"
+  ],
+  "population": {
+   "value": 9104063,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Fondue",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CI": {
+  "name": "Ivory Coast",
+  "wikidata": "Q1008",
+  "wikipedia_title": "Ivory Coast",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ivory_Coast",
+  "capital": [
+   "Yamoussoukro"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 31165654,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Atcheke",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CL": {
+  "name": "Chile",
+  "wikidata": "Q298",
+  "wikipedia_title": "Chile",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chile",
+  "capital": [
+   "Santiago"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Chilean peso",
+   "Unidad de Fomento"
+  ],
+  "population": {
+   "value": 19458000,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Empanada",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CM": {
+  "name": "Cameroon",
+  "wikidata": "Q1009",
+  "wikipedia_title": "Cameroon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cameroon",
+  "capital": [
+   "Yaoundé"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currency": [
+   "Central African CFA franc"
+  ],
+  "population": {
+   "value": 28372687,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Ndolé",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CN": {
+  "name": "China",
+  "wikidata": "Q148",
+  "wikipedia_title": "China",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/China",
+  "capital": [
+   "Beijing"
+  ],
+  "languages": [
+   "Putonghua"
+  ],
+  "currency": [
+   "renminbi"
+  ],
+  "population": {
+   "value": 1404890000,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Peking duck",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CO": {
+  "name": "Colombia",
+  "wikidata": "Q739",
+  "wikipedia_title": "Colombia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Colombia",
+  "capital": [
+   "Bogotá"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Colombian peso"
+  ],
+  "population": {
+   "value": 52321152,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Ajiaco",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CR": {
+  "name": "Costa Rica",
+  "wikidata": "Q800",
+  "wikipedia_title": "Costa Rica",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Costa_Rica",
+  "capital": [
+   "San José"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Costa Rican colón"
+  ],
+  "population": {
+   "value": 5265575,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Casado",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CU": {
+  "name": "Cuba",
+  "wikidata": "Q241",
+  "wikipedia_title": "Cuba",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cuba",
+  "capital": [
+   "Havana"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Cuban peso"
+  ],
+  "population": {
+   "value": 10985974,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Ropa vieja",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CV": {
+  "name": "Cape Verde",
+  "wikidata": "Q1011",
+  "wikipedia_title": "Cape Verde",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Verde",
+  "capital": [
+   "Praia"
+  ],
+  "languages": [
+   "Cape Verdean Creole",
+   "Portuguese"
+  ],
+  "currency": [
+   "Cape Verdean escudo"
+  ],
+  "population": {
+   "value": 555988,
+   "year": 2020
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Cachupa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CY": {
+  "name": "Cyprus",
+  "wikidata": "Q229",
+  "wikipedia_title": "Cyprus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cyprus",
+  "capital": [
+   "Nicosia"
+  ],
+  "languages": [
+   "Modern Greek",
+   "Turkish"
+  ],
+  "currency": [
+   "All-Russian Classifier of Currencies",
+   "euro"
+  ],
+  "population": {
+   "value": 1344976,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Souvla",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "CZ": {
+  "name": "Czech Republic",
+  "wikidata": "Q213",
+  "wikipedia_title": "Czech Republic",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
+  "capital": [
+   "Prague"
+  ],
+  "languages": [
+   "Czech"
+  ],
+  "currency": [
+   "Czech koruna"
+  ],
+  "population": {
+   "value": 10909500,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Vepřo knedlo zelo",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "DE": {
+  "name": "Germany",
+  "wikidata": "Q183",
+  "wikipedia_title": "Germany",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Germany",
+  "capital": [
+   "Berlin"
+  ],
+  "languages": [
+   "German"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 83467117,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Schweinshaxe",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "DJ": {
+  "name": "Djibouti",
+  "wikidata": "Q977",
+  "wikipedia_title": "Djibouti",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Djibouti",
+  "capital": [
+   "Djibouti"
+  ],
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currency": [
+   "Djiboutian franc"
+  ],
+  "population": {
+   "value": 1152944,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Skoudehkaris",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "DK": {
+  "name": "Denmark",
+  "wikidata": "Q35",
+  "wikipedia_title": "Denmark",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Denmark",
+  "capital": [
+   "Copenhagen"
+  ],
+  "languages": [
+   "Danish"
+  ],
+  "currency": [
+   "Danish krone"
+  ],
+  "population": {
+   "value": 5822863,
+   "year": 2020
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Stegt flæsk",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "DM": {
+  "name": "Dominica",
+  "wikidata": "Q784",
+  "wikipedia_title": "Dominica",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dominica",
+  "capital": [
+   "Roseau"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Eastern Caribbean dollar"
+  ],
+  "population": {
+   "value": 74656,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Mountain chicken",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "DO": {
+  "name": "Dominican Republic",
+  "wikidata": "Q786",
+  "wikipedia_title": "Dominican Republic",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dominican_Republic",
+  "capital": [
+   "Santo Domingo"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Dominican peso"
+  ],
+  "population": {
+   "value": 10760028,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "La bandera",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "DZ": {
+  "name": "Algeria",
+  "wikidata": "Q262",
+  "wikipedia_title": "Algeria",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Algeria",
+  "capital": [
+   "Algiers"
+  ],
+  "languages": [
+   "Arabic",
+   "Standard Algerian Berber"
+  ],
+  "currency": [
+   "Algerian dinar"
+  ],
+  "population": {
+   "value": 46164219,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Couscous",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "EC": {
+  "name": "Ecuador",
+  "wikidata": "Q736",
+  "wikipedia_title": "Ecuador",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ecuador",
+  "capital": [
+   "Quito"
+  ],
+  "languages": [
+   "Northern Quichua",
+   "Shuar",
+   "Spanish"
+  ],
+  "currency": [
+   "United States dollar"
+  ],
+  "population": {
+   "value": 16938986,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Encebollado",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "EE": {
+  "name": "Estonia",
+  "wikidata": "Q191",
+  "wikipedia_title": "Estonia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Estonia",
+  "capital": [
+   "Tallinn"
+  ],
+  "languages": [
+   "Estonian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 1369995,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Kama",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "EG": {
+  "name": "Egypt",
+  "wikidata": "Q79",
+  "wikipedia_title": "Egypt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Egypt",
+  "capital": [
+   "Cairo"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Egyptian pound"
+  ],
+  "population": {
+   "value": 114535772,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Ful medames",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ER": {
+  "name": "Eritrea",
+  "wikidata": "Q986",
+  "wikipedia_title": "Eritrea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eritrea",
+  "capital": [
+   "Asmara"
+  ],
+  "languages": [
+   "Arabic",
+   "English",
+   "Tigrinya"
+  ],
+  "currency": [
+   "nakfa"
+  ],
+  "population": {
+   "value": 3497000,
+   "year": 2019
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Zigini",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ES": {
+  "name": "Spain",
+  "wikidata": "Q29",
+  "wikipedia_title": "Spain",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spain",
+  "capital": [
+   "Madrid"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 48592909,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Tortilla de patatas",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ET": {
+  "name": "Ethiopia",
+  "wikidata": "Q115",
+  "wikipedia_title": "Ethiopia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ethiopia",
+  "capital": [
+   "Addis Ababa"
+  ],
+  "languages": [
+   "Amharic"
+  ],
+  "currency": [
+   "bir"
+  ],
+  "population": {
+   "value": 128691692,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Doro wat",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "FI": {
+  "name": "Finland",
+  "wikidata": "Q33",
+  "wikipedia_title": "Finland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Finland",
+  "capital": [
+   "Helsinki"
+  ],
+  "languages": [
+   "Finnish",
+   "Swedish"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 5652881,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Rye bread",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "FJ": {
+  "name": "Fiji",
+  "wikidata": "Q712",
+  "wikipedia_title": "Fiji",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fiji",
+  "capital": [
+   "Suva"
+  ],
+  "languages": [
+   "English",
+   "Fiji Hindi",
+   "Fijian"
+  ],
+  "currency": [
+   "Fijian dollar"
+  ],
+  "population": {
+   "value": 926276,
+   "year": 2018
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Kokoda",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "FM": {
+  "name": "Micronesia",
+  "wikidata": "Q702",
+  "wikipedia_title": "Federated States of Micronesia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+  "capital": [
+   "Palikir"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "United States dollar"
+  ],
+  "population": {
+   "value": 75817,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "FR": {
+  "name": "France",
+  "wikidata": "Q142",
+  "wikipedia_title": "France",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/France",
+  "capital": [
+   "Paris"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "CFP Franc",
+   "euro"
+  ],
+  "population": {
+   "value": 68605616,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Escargot",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GA": {
+  "name": "Gabon",
+  "wikidata": "Q1000",
+  "wikipedia_title": "Gabon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabon",
+  "capital": [
+   "Libreville"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "Central African CFA franc"
+  ],
+  "population": {
+   "value": 2025137,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Poulet nyembwe",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GB": {
+  "name": "United Kingdom",
+  "wikidata": "Q145",
+  "wikipedia_title": "United Kingdom",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/United_Kingdom",
+  "capital": [
+   "London"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "pound sterling"
+  ],
+  "population": {
+   "value": 67326569,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Fry-up",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GD": {
+  "name": "Grenada",
+  "wikidata": "Q769",
+  "wikipedia_title": "Grenada",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Grenada",
+  "capital": [
+   "St. George's"
+  ],
+  "languages": [
+   "English",
+   "Grenadian Creole English"
+  ],
+  "currency": [
+   "Eastern Caribbean dollar"
+  ],
+  "population": {
+   "value": 114299,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Oil down",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GE": {
+  "name": "Georgia",
+  "wikidata": "Q230",
+  "wikipedia_title": "Georgia (country)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+  "capital": [
+   "Tbilisi"
+  ],
+  "languages": [
+   "Georgian"
+  ],
+  "currency": [
+   "Georgian lari"
+  ],
+  "population": {
+   "value": 3929581,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Khachapuri",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GH": {
+  "name": "Ghana",
+  "wikidata": "Q117",
+  "wikipedia_title": "Ghana",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ghana",
+  "capital": [
+   "Accra"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Ghana Pesewa",
+   "Ghana cedi"
+  ],
+  "population": {
+   "value": 32833031,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Fufu",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GL": {
+  "name": "Greenland",
+  "wikidata": "Q223",
+  "wikipedia_title": "Greenland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Greenland",
+  "capital": [
+   "Nuuk"
+  ],
+  "languages": [
+   "Greenlandic"
+  ],
+  "currency": [
+   "Danish krone"
+  ],
+  "population": {
+   "value": 56609,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "GM": {
+  "name": "Gambia",
+  "wikidata": "Q1005",
+  "wikipedia_title": "The Gambia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gambia",
+  "capital": [
+   "Banjul"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "dalasi"
+  ],
+  "population": {
+   "value": 2639916,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Domoda",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GN": {
+  "name": "Guinea",
+  "wikidata": "Q1006",
+  "wikipedia_title": "Guinea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guinea",
+  "capital": [
+   "Conakry"
+  ],
+  "languages": [
+   "French",
+   "languages of Guinea"
+  ],
+  "currency": [
+   "Guinean franc"
+  ],
+  "population": {
+   "value": 17521167,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Poulet yassa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GQ": {
+  "name": "Equatorial Guinea",
+  "wikidata": "Q983",
+  "wikipedia_title": "Equatorial Guinea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+  "capital": [
+   "Ciudad de la Paz"
+  ],
+  "languages": [
+   "French",
+   "Portuguese",
+   "Spanish"
+  ],
+  "currency": [
+   "Central African CFA franc"
+  ],
+  "population": {
+   "value": 1847549,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Succotash",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GR": {
+  "name": "Greece",
+  "wikidata": "Q41",
+  "wikipedia_title": "Greece",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Greece",
+  "capital": [
+   "Athens"
+  ],
+  "languages": [
+   "Greek"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 10482487,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Horiatiki",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GT": {
+  "name": "Guatemala",
+  "wikidata": "Q774",
+  "wikipedia_title": "Guatemala",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guatemala",
+  "capital": [
+   "Guatemala City"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "quetzal"
+  ],
+  "population": {
+   "value": 17263239,
+   "year": 2018
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Pepián",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GW": {
+  "name": "Guinea-Bissau",
+  "wikidata": "Q1007",
+  "wikipedia_title": "Guinea-Bissau",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+  "capital": [
+   "Bissau"
+  ],
+  "languages": [
+   "Portuguese"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 1861283,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Caldo de mancarra",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "GY": {
+  "name": "Guyana",
+  "wikidata": "Q734",
+  "wikipedia_title": "Guyana",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guyana",
+  "capital": [
+   "Georgetown"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Guyanese dollar"
+  ],
+  "population": {
+   "value": 878674,
+   "year": 2022
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Pepperpot",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "HK": {
+  "name": "Hong Kong",
+  "wikidata": "Q8646",
+  "wikipedia_title": "Hong Kong",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hong_Kong",
+  "languages": [
+   "Standard Chinese"
+  ],
+  "currency": [
+   "Hong Kong dollar"
+  ],
+  "population": {
+   "value": 7413070,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Pineapple bun",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "HN": {
+  "name": "Honduras",
+  "wikidata": "Q783",
+  "wikipedia_title": "Honduras",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Honduras",
+  "capital": [
+   "Tegucigalpa"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Honduran lempira"
+  ],
+  "population": {
+   "value": 8303771,
+   "year": 2013
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Baleada",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "HR": {
+  "name": "Croatia",
+  "wikidata": "Q224",
+  "wikipedia_title": "Croatia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Croatia",
+  "capital": [
+   "Zagreb"
+  ],
+  "languages": [
+   "Croatian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 3871833,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Zagorski štrukli",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "HT": {
+  "name": "Haiti",
+  "wikidata": "Q790",
+  "wikipedia_title": "Haiti",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Haiti",
+  "capital": [
+   "Port-au-Prince"
+  ],
+  "languages": [
+   "French",
+   "Haitian Creole"
+  ],
+  "currency": [
+   "gourde"
+  ],
+  "population": {
+   "value": 10981229,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Griot",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "HU": {
+  "name": "Hungary",
+  "wikidata": "Q28",
+  "wikipedia_title": "Hungary",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hungary",
+  "capital": [
+   "Budapest"
+  ],
+  "languages": [
+   "Hungarian"
+  ],
+  "currency": [
+   "forint"
+  ],
+  "population": {
+   "value": 9603634,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Goulash",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ID": {
+  "name": "Indonesia",
+  "wikidata": "Q252",
+  "wikipedia_title": "Indonesia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Indonesia",
+  "capital": [
+   "Jakarta"
+  ],
+  "languages": [
+   "Indonesian"
+  ],
+  "currency": [
+   "rupiah"
+  ],
+  "population": {
+   "value": 275439000,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Nasi goreng",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IE": {
+  "name": "Ireland",
+  "wikidata": "Q27",
+  "wikipedia_title": "Republic of Ireland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+  "capital": [
+   "Dublin"
+  ],
+  "languages": [
+   "English",
+   "Irish"
+  ],
+  "currency": [
+   "Irish euro coin",
+   "euro"
+  ],
+  "population": {
+   "value": 5149139,
+   "year": 2022
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Soda bread",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IL": {
+  "name": "Israel",
+  "wikidata": "Q801",
+  "wikipedia_title": "Israel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Israel",
+  "capital": [
+   "Jerusalem"
+  ],
+  "languages": [
+   "Hebrew"
+  ],
+  "currency": [
+   "new shekel"
+  ],
+  "population": {
+   "value": 9840000,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Falafel",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IN": {
+  "name": "India",
+  "wikidata": "Q668",
+  "wikipedia_title": "India",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/India",
+  "capital": [
+   "New Delhi"
+  ],
+  "languages": [
+   "English",
+   "Hindi"
+  ],
+  "currency": [
+   "Indian rupee"
+  ],
+  "population": {
+   "value": 1326093247,
+   "year": 2020
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Khichdi",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IQ": {
+  "name": "Iraq",
+  "wikidata": "Q796",
+  "wikipedia_title": "Iraq",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iraq",
+  "capital": [
+   "Baghdad"
+  ],
+  "languages": [
+   "Arabic",
+   "Kurdish language"
+  ],
+  "currency": [
+   "Iraqi dinar"
+  ],
+  "population": {
+   "value": 38274618,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Masgouf",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IR": {
+  "name": "Iran",
+  "wikidata": "Q794",
+  "wikipedia_title": "Iran",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iran",
+  "capital": [
+   "Tehran"
+  ],
+  "languages": [
+   "Persian"
+  ],
+  "currency": [
+   "Iranian rial"
+  ],
+  "population": {
+   "value": 92417700,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Abgoosht",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IS": {
+  "name": "Iceland",
+  "wikidata": "Q189",
+  "wikipedia_title": "Iceland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iceland",
+  "capital": [
+   "Reykjavík"
+  ],
+  "languages": [
+   "Icelandic"
+  ],
+  "currency": [
+   "Icelandic króna"
+  ],
+  "population": {
+   "value": 364260,
+   "year": 2019
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "[[Lamb",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "IT": {
+  "name": "Italy",
+  "wikidata": "Q38",
+  "wikipedia_title": "Italy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Italy",
+  "capital": [
+   "Rome"
+  ],
+  "languages": [
+   "Italian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 58850717,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Pasta",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "JM": {
+  "name": "Jamaica",
+  "wikidata": "Q766",
+  "wikipedia_title": "Jamaica",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jamaica",
+  "capital": [
+   "Kingston"
+  ],
+  "languages": [
+   "English",
+   "Jamaican Patois"
+  ],
+  "currency": [
+   "Jamaican dollar"
+  ],
+  "population": {
+   "value": 2697983,
+   "year": 2011
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "[[Ackee",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "JO": {
+  "name": "Jordan",
+  "wikidata": "Q810",
+  "wikipedia_title": "Jordan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan",
+  "capital": [
+   "Amman"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Jordanian dinar"
+  ],
+  "population": {
+   "value": 10428241,
+   "year": 2019
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Mansaf",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "JP": {
+  "name": "Japan",
+  "wikidata": "Q17",
+  "wikipedia_title": "Japan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Japan",
+  "capital": [
+   "Tokyo"
+  ],
+  "languages": [
+   "Japanese"
+  ],
+  "currency": [
+   "yen"
+  ],
+  "population": {
+   "value": 123802000,
+   "year": 2024
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Sushi",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KE": {
+  "name": "Kenya",
+  "wikidata": "Q114",
+  "wikipedia_title": "Kenya",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenya",
+  "capital": [
+   "Nairobi"
+  ],
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currency": [
+   "Kenyan shilling"
+  ],
+  "population": {
+   "value": 48468138,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Ugali",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KG": {
+  "name": "Kyrgyzstan",
+  "wikidata": "Q813",
+  "wikipedia_title": "Kyrgyzstan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+  "capital": [
+   "Bishkek"
+  ],
+  "languages": [
+   "Kyrgyz"
+  ],
+  "currency": [
+   "Kyrgyz som"
+  ],
+  "population": {
+   "value": 7281800,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Beshbarmak",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KH": {
+  "name": "Cambodia",
+  "wikidata": "Q424",
+  "wikipedia_title": "Cambodia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cambodia",
+  "capital": [
+   "Phnom Penh"
+  ],
+  "languages": [
+   "Khmer"
+  ],
+  "currency": [
+   "riel"
+  ],
+  "population": {
+   "value": 17423880,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Fish amok",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KI": {
+  "name": "Kiribati",
+  "wikidata": "Q710",
+  "wikipedia_title": "Kiribati",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kiribati",
+  "capital": [
+   "South Tarawa"
+  ],
+  "languages": [
+   "English",
+   "Gilbertese"
+  ],
+  "currency": [
+   "Australian dollar",
+   "Kiribati dollar"
+  ],
+  "population": {
+   "value": 134518,
+   "year": 2024
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Palusami",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KM": {
+  "name": "Comoros",
+  "wikidata": "Q970",
+  "wikipedia_title": "Comoros",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Comoros",
+  "capital": [
+   "Moroni"
+  ],
+  "languages": [
+   "Arabic",
+   "Comorian",
+   "French"
+  ],
+  "currency": [
+   "Comorian franc"
+  ],
+  "population": {
+   "value": 902348,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Langouste a la vanille",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KN": {
+  "name": "Saint Kitts and Nevis",
+  "wikidata": "Q763",
+  "wikipedia_title": "Saint Kitts and Nevis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+  "capital": [
+   "Basseterre"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Eastern Caribbean dollar"
+  ],
+  "population": {
+   "value": 46922,
+   "year": 2025
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "KP": {
+  "name": "North Korea",
+  "wikidata": "Q423",
+  "wikipedia_title": "North Korea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
+  "capital": [
+   "Pyongyang"
+  ],
+  "languages": [
+   "Korean",
+   "North Korean standard language"
+  ],
+  "currency": [
+   "North Korean won"
+  ],
+  "population": {
+   "value": 26418204,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "KR": {
+  "name": "South Korea",
+  "wikidata": "Q884",
+  "wikipedia_title": "South Korea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/South_Korea",
+  "capital": [
+   "Seoul"
+  ],
+  "languages": [
+   "Korean",
+   "Korean Sign Language"
+  ],
+  "currency": [
+   "won"
+  ],
+  "population": {
+   "value": 51466201,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "KW": {
+  "name": "Kuwait",
+  "wikidata": "Q817",
+  "wikipedia_title": "Kuwait",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kuwait",
+  "capital": [
+   "Kuwait City"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Kuwaiti dinar"
+  ],
+  "population": {
+   "value": 4464000,
+   "year": 2020
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Machboos Laham",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "KZ": {
+  "name": "Kazakhstan",
+  "wikidata": "Q232",
+  "wikipedia_title": "Kazakhstan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kazakhstan",
+  "capital": [
+   "Astana"
+  ],
+  "languages": [
+   "Kazakh",
+   "Russian"
+  ],
+  "currency": [
+   "Kazakhstani tenge"
+  ],
+  "population": {
+   "value": 20139914,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Beshbarmak",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LA": {
+  "name": "Laos",
+  "wikidata": "Q819",
+  "wikipedia_title": "Laos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Laos",
+  "capital": [
+   "Vientiane"
+  ],
+  "languages": [
+   "Lao"
+  ],
+  "currency": [
+   "Lao kip"
+  ],
+  "population": {
+   "value": 6858160,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Larb/laap",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LB": {
+  "name": "Lebanon",
+  "wikidata": "Q822",
+  "wikipedia_title": "Lebanon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lebanon",
+  "capital": [
+   "Beirut"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Lebanese pound"
+  ],
+  "population": {
+   "value": 6100075,
+   "year": 2018
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Kibbeh",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LC": {
+  "name": "Saint Lucia",
+  "wikidata": "Q760",
+  "wikipedia_title": "Saint Lucia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Lucia",
+  "capital": [
+   "Castries"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Eastern Caribbean dollar"
+  ],
+  "population": {
+   "value": 167591,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "LI": {
+  "name": "Liechtenstein",
+  "wikidata": "Q347",
+  "wikipedia_title": "Liechtenstein",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Liechtenstein",
+  "capital": [
+   "Vaduz"
+  ],
+  "languages": [
+   "German"
+  ],
+  "currency": [
+   "Swiss franc"
+  ],
+  "population": {
+   "value": 37922,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Käsknöpfle",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LK": {
+  "name": "Sri Lanka",
+  "wikidata": "Q854",
+  "wikipedia_title": "Sri Lanka",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+  "capital": [
+   "Colombo",
+   "Sri Jayawardenepura Kotte"
+  ],
+  "languages": [
+   "Sinhala",
+   "Tamil"
+  ],
+  "currency": [
+   "Sri Lankan rupee"
+  ],
+  "population": {
+   "value": 21444000,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "[[Rice",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LR": {
+  "name": "Liberia",
+  "wikidata": "Q1014",
+  "wikipedia_title": "Liberia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Liberia",
+  "capital": [
+   "Monrovia"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Liberian dollar",
+   "United States dollar"
+  ],
+  "population": {
+   "value": 5214030,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Dumboy",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LS": {
+  "name": "Lesotho",
+  "wikidata": "Q1013",
+  "wikipedia_title": "Lesotho",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lesotho",
+  "capital": [
+   "Maseru"
+  ],
+  "languages": [
+   "English",
+   "Sesotho"
+  ],
+  "currency": [
+   "loti",
+   "rand"
+  ],
+  "population": {
+   "value": 2007201,
+   "year": 2016
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Pap-pap",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LT": {
+  "name": "Lithuania",
+  "wikidata": "Q37",
+  "wikipedia_title": "Lithuania",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lithuania",
+  "capital": [
+   "Vilnius"
+  ],
+  "languages": [
+   "Lithuanian"
+  ],
+  "currency": [
+   "Lithuanian talonas",
+   "euro"
+  ],
+  "population": {
+   "value": 2860002,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Bigos",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LU": {
+  "name": "Luxembourg",
+  "wikidata": "Q32",
+  "wikipedia_title": "Luxembourg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luxembourg",
+  "capital": [
+   "Luxembourg"
+  ],
+  "languages": [
+   "French",
+   "German",
+   "Luxembourgish"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 690959,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Judd mat Gaardebounen",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LV": {
+  "name": "Latvia",
+  "wikidata": "Q211",
+  "wikipedia_title": "Latvia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Latvia",
+  "capital": [
+   "Riga"
+  ],
+  "languages": [
+   "Latvian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 1845096,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Layered rye bread",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "LY": {
+  "name": "Libya",
+  "wikidata": "Q1016",
+  "wikipedia_title": "Libya",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Libya",
+  "capital": [
+   "Tripoli"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Libyan dinar"
+  ],
+  "population": {
+   "value": 7381023,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Couscous",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MA": {
+  "name": "Morocco",
+  "wikidata": "Q1028",
+  "wikipedia_title": "Morocco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Morocco",
+  "capital": [
+   "Rabat"
+  ],
+  "languages": [
+   "Arabic",
+   "Standard Moroccan Tamazight"
+  ],
+  "currency": [
+   "Moroccan dirham"
+  ],
+  "population": {
+   "value": 36828330,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Couscous",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MC": {
+  "name": "Monaco",
+  "wikidata": "Q235",
+  "wikipedia_title": "Monaco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Monaco",
+  "capital": [
+   "Monaco"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 38857,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Barbagiuan",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MD": {
+  "name": "Moldova",
+  "wikidata": "Q217",
+  "wikipedia_title": "Moldova",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moldova",
+  "capital": [
+   "Chișinău"
+  ],
+  "languages": [
+   "Romanian"
+  ],
+  "currency": [
+   "Moldovan leu"
+  ],
+  "population": {
+   "value": 2409207,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Mămăligă",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ME": {
+  "name": "Montenegro",
+  "wikidata": "Q236",
+  "wikipedia_title": "Montenegro",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Montenegro",
+  "capital": [
+   "Podgorica"
+  ],
+  "languages": [
+   "Montenegrin"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 617213,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Njeguški pršut",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MG": {
+  "name": "Madagascar",
+  "wikidata": "Q1019",
+  "wikipedia_title": "Madagascar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Madagascar",
+  "capital": [
+   "Antananarivo"
+  ],
+  "languages": [
+   "French",
+   "Malagasy"
+  ],
+  "currency": [
+   "ariary"
+  ],
+  "population": {
+   "value": 31964956,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Romazava",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MH": {
+  "name": "Marshall Islands",
+  "wikidata": "Q709",
+  "wikipedia_title": "Marshall Islands",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Islands",
+  "capital": [
+   "Majuro"
+  ],
+  "languages": [
+   "English",
+   "Marshallese"
+  ],
+  "currency": [
+   "SOV",
+   "United States dollar"
+  ],
+  "population": {
+   "value": 53127,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Barramundi cod",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MK": {
+  "name": "North Macedonia",
+  "wikidata": "Q221",
+  "wikipedia_title": "North Macedonia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/North_Macedonia",
+  "capital": [
+   "Skopje"
+  ],
+  "languages": [
+   "Albanian",
+   "Macedonian"
+  ],
+  "currency": [
+   "Macedonian denar"
+  ],
+  "population": {
+   "value": 1836713,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Tavče gravče",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ML": {
+  "name": "Mali",
+  "wikidata": "Q912",
+  "wikipedia_title": "Mali",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mali",
+  "capital": [
+   "Bamako"
+  ],
+  "languages": [
+   "Bambara",
+   "Bobo",
+   "Bozo",
+   "Dogon",
+   "Fula",
+   "Hassaniya Arabic",
+   "Kassonke",
+   "Maninka",
+   "Minyanka",
+   "Senufo",
+   "Songhay",
+   "Soninke",
+   "Tamasheq"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 22395489,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Tiguadege na",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MM": {
+  "name": "Myanmar",
+  "wikidata": "Q836",
+  "wikipedia_title": "Myanmar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Myanmar",
+  "capital": [
+   "Naypyidaw"
+  ],
+  "languages": [
+   "Burmese"
+  ],
+  "currency": [
+   "kyat"
+  ],
+  "population": {
+   "value": 53370609,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Mohinga",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MN": {
+  "name": "Mongolia",
+  "wikidata": "Q711",
+  "wikipedia_title": "Mongolia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mongolia",
+  "capital": [
+   "Ulaanbaatar"
+  ],
+  "languages": [
+   "Mongolian"
+  ],
+  "currency": [
+   "Mongolian tögrög"
+  ],
+  "population": {
+   "value": 3409939,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Buuz",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MO": {
+  "name": "Macau",
+  "wikidata": "Q14773",
+  "wikipedia_title": "Macau",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Macau",
+  "languages": [
+   "Cantonese",
+   "Portuguese",
+   "Standard Chinese"
+  ],
+  "currency": [
+   "Hong Kong dollar",
+   "Macanese pataca"
+  ],
+  "population": {
+   "value": 682100,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "MR": {
+  "name": "Mauritania",
+  "wikidata": "Q1025",
+  "wikipedia_title": "Mauritania",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mauritania",
+  "capital": [
+   "Nouakchott"
+  ],
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currency": [
+   "Mauritanian ouguiya"
+  ],
+  "population": {
+   "value": 4736139,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "MT": {
+  "name": "Malta",
+  "wikidata": "Q233",
+  "wikipedia_title": "Malta",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malta",
+  "capital": [
+   "Valletta"
+  ],
+  "languages": [
+   "English",
+   "Maltese"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 553214,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Stuffat tal-fenek",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MU": {
+  "name": "Mauritius",
+  "wikidata": "Q1027",
+  "wikipedia_title": "Mauritius",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mauritius",
+  "capital": [
+   "Port Louis"
+  ],
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currency": [
+   "Mauritian rupee"
+  ],
+  "population": {
+   "value": 1264613,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Dholl",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MV": {
+  "name": "Maldives",
+  "wikidata": "Q826",
+  "wikipedia_title": "Maldives",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maldives",
+  "capital": [
+   "Malé"
+  ],
+  "languages": [
+   "Maldivian"
+  ],
+  "currency": [
+   "Maldivian rufiyaa"
+  ],
+  "population": {
+   "value": 436330,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Mas huni",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MW": {
+  "name": "Malawi",
+  "wikidata": "Q1020",
+  "wikipedia_title": "Malawi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malawi",
+  "capital": [
+   "Lilongwe"
+  ],
+  "languages": [
+   "Chewa",
+   "English",
+   "Tumbuka"
+  ],
+  "currency": [
+   "Malawian kwacha"
+  ],
+  "population": {
+   "value": 17563749,
+   "year": 2018
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "MX": {
+  "name": "Mexico",
+  "wikidata": "Q96",
+  "wikipedia_title": "Mexico",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mexico",
+  "capital": [
+   "Mexico City"
+  ],
+  "languages": [
+   "Nahuatl",
+   "Spanish",
+   "Yucatec Maya"
+  ],
+  "currency": [
+   "peso"
+  ],
+  "population": {
+   "value": 132274416,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Taco",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MY": {
+  "name": "Malaysia",
+  "wikidata": "Q833",
+  "wikipedia_title": "Malaysia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia",
+  "capital": [
+   "Kuala Lumpur",
+   "Putrajaya"
+  ],
+  "languages": [
+   "Malay"
+  ],
+  "currency": [
+   "Malaysian ringgit"
+  ],
+  "population": {
+   "value": 34231700,
+   "year": 2025
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Nasi lemak",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "MZ": {
+  "name": "Mozambique",
+  "wikidata": "Q1029",
+  "wikipedia_title": "Mozambique",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mozambique",
+  "capital": [
+   "Maputo"
+  ],
+  "languages": [
+   "Portuguese"
+  ],
+  "currency": [
+   "Mozambican metical"
+  ],
+  "population": {
+   "value": 29668834,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "NA": {
+  "name": "Namibia",
+  "wikidata": "Q1030",
+  "wikipedia_title": "Namibia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Namibia",
+  "capital": [
+   "Windhoek"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Namibian dollar",
+   "rand"
+  ],
+  "population": {
+   "value": 2533794,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "NE": {
+  "name": "Niger",
+  "wikidata": "Q1032",
+  "wikipedia_title": "Niger",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Niger",
+  "capital": [
+   "Niamey"
+  ],
+  "languages": [
+   "Hausa"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 21477348,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Dambou",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NG": {
+  "name": "Nigeria",
+  "wikidata": "Q1033",
+  "wikipedia_title": "Nigeria",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nigeria",
+  "capital": [
+   "Abuja"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "naira"
+  ],
+  "population": {
+   "value": 211400708,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Tuwon shinkafa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NI": {
+  "name": "Nicaragua",
+  "wikidata": "Q811",
+  "wikipedia_title": "Nicaragua",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicaragua",
+  "capital": [
+   "Managua"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Nicaraguan córdoba"
+  ],
+  "population": {
+   "value": 5142098,
+   "year": 2005
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Gallo pinto",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NL": {
+  "name": "Netherlands",
+  "wikidata": "Q55",
+  "wikipedia_title": "Netherlands",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Netherlands",
+  "capital": [
+   "Amsterdam"
+  ],
+  "languages": [
+   "Dutch"
+  ],
+  "currency": [
+   "United States dollar",
+   "euro"
+  ],
+  "population": {
+   "value": 17942942,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Stamppot",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NO": {
+  "name": "Norway",
+  "wikidata": "Q20",
+  "wikipedia_title": "Norway",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Norway",
+  "capital": [
+   "Oslo"
+  ],
+  "languages": [
+   "Bokmål",
+   "Norwegian",
+   "Nynorsk",
+   "Sámi"
+  ],
+  "currency": [
+   "Norwegian krone"
+  ],
+  "population": {
+   "value": 5627400,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Fårikål",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NP": {
+  "name": "Nepal",
+  "wikidata": "Q837",
+  "wikipedia_title": "Nepal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nepal",
+  "capital": [
+   "Kathmandu"
+  ],
+  "languages": [
+   "Nepali"
+  ],
+  "currency": [
+   "Nepalese rupee"
+  ],
+  "population": {
+   "value": 29164578,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Gundruk",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NR": {
+  "name": "Nauru",
+  "wikidata": "Q697",
+  "wikipedia_title": "Nauru",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nauru",
+  "capital": [
+   "Yaren District"
+  ],
+  "languages": [
+   "English",
+   "Nauruan"
+  ],
+  "currency": [
+   "Australian dollar"
+  ],
+  "population": {
+   "value": 13650,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Coconut fish",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "NZ": {
+  "name": "New Zealand",
+  "wikidata": "Q664",
+  "wikipedia_title": "New Zealand",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_Zealand",
+  "capital": [
+   "Wellington"
+  ],
+  "languages": [
+   "English",
+   "Māori",
+   "New Zealand Sign Language"
+  ],
+  "currency": [
+   "New Zealand dollar"
+  ],
+  "population": {
+   "value": 5307800,
+   "year": 2024
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Meat pie",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "OM": {
+  "name": "Oman",
+  "wikidata": "Q842",
+  "wikipedia_title": "Oman",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oman",
+  "capital": [
+   "Muscat"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Omani rial"
+  ],
+  "population": {
+   "value": 4829480,
+   "year": 2018
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Shuwa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PA": {
+  "name": "Panama",
+  "wikidata": "Q804",
+  "wikipedia_title": "Panama",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Panama",
+  "capital": [
+   "Panama City"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Panamanian balboa",
+   "United States dollar"
+  ],
+  "population": {
+   "value": 4570133,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Sancocho",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PE": {
+  "name": "Peru",
+  "wikidata": "Q419",
+  "wikipedia_title": "Peru",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Peru",
+  "capital": [
+   "Lima"
+  ],
+  "languages": [
+   "Aymara",
+   "Quechua",
+   "Spanish"
+  ],
+  "currency": [
+   "Nuevo sol"
+  ],
+  "population": {
+   "value": 34157732,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Ceviche",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PG": {
+  "name": "Papua New Guinea",
+  "wikidata": "Q691",
+  "wikipedia_title": "Papua New Guinea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+  "capital": [
+   "Port Moresby"
+  ],
+  "languages": [
+   "English",
+   "Hiri Motu",
+   "Papua New Guinean Sign Language",
+   "Tok Pisin"
+  ],
+  "currency": [
+   "kina"
+  ],
+  "population": {
+   "value": 8935000,
+   "year": 2020
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "PH": {
+  "name": "Philippines",
+  "wikidata": "Q928",
+  "wikipedia_title": "Philippines",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Philippines",
+  "capital": [
+   "Manila"
+  ],
+  "languages": [
+   "English",
+   "Filipino",
+   "Taglish"
+  ],
+  "currency": [
+   "Philippine peso"
+  ],
+  "population": {
+   "value": 112729484,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Adobo",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PK": {
+  "name": "Pakistan",
+  "wikidata": "Q843",
+  "wikipedia_title": "Pakistan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pakistan",
+  "capital": [
+   "Islamabad"
+  ],
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "currency": [
+   "Pakistani rupee"
+  ],
+  "population": {
+   "value": 223773700,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Biryani",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PL": {
+  "name": "Poland",
+  "wikidata": "Q36",
+  "wikipedia_title": "Poland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Poland",
+  "capital": [
+   "Warsaw"
+  ],
+  "languages": [
+   "Polish"
+  ],
+  "currency": [
+   "złoty"
+  ],
+  "population": {
+   "value": 37563071,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Bigos",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PR": {
+  "name": "Puerto Rico",
+  "wikidata": "Q1183",
+  "wikipedia_title": "Puerto Rico",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Puerto_Rico",
+  "capital": [
+   "San Juan"
+  ],
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "currency": [
+   "United States dollar"
+  ],
+  "population": {
+   "value": 3285874,
+   "year": 2020
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "PS": {
+  "name": "Palestine",
+  "wikidata": "Q219060",
+  "wikipedia_title": "Palestine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Palestine",
+  "capital": [
+   "East Jerusalem",
+   "Ramallah"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Egyptian pound",
+   "Jordanian dinar",
+   "new shekel"
+  ],
+  "population": {
+   "value": 5227193,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Maqluba",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PT": {
+  "name": "Portugal",
+  "wikidata": "Q45",
+  "wikipedia_title": "Portugal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Portugal",
+  "capital": [
+   "Lisbon"
+  ],
+  "languages": [
+   "Portuguese"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 10347892,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Bacalhau",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "PW": {
+  "name": "Palau",
+  "wikidata": "Q695",
+  "wikipedia_title": "Palau",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Palau",
+  "capital": [
+   "Ngerulmud"
+  ],
+  "languages": [
+   "English",
+   "Japanese",
+   "Palauan"
+  ],
+  "currency": [
+   "United States dollar"
+  ],
+  "population": {
+   "value": 21729,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "PY": {
+  "name": "Paraguay",
+  "wikidata": "Q733",
+  "wikipedia_title": "Paraguay",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paraguay",
+  "capital": [
+   "Asunción"
+  ],
+  "languages": [
+   "Guarani",
+   "Spanish"
+  ],
+  "currency": [
+   "Paraguayan guaraní"
+  ],
+  "population": {
+   "value": 6811297,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Sopa paraguaya",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "QA": {
+  "name": "Qatar",
+  "wikidata": "Q846",
+  "wikipedia_title": "Qatar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Qatar",
+  "capital": [
+   "Doha"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Qatari riyal"
+  ],
+  "population": {
+   "value": 2639211,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Machboos",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "RO": {
+  "name": "Romania",
+  "wikidata": "Q218",
+  "wikipedia_title": "Romania",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Romania",
+  "capital": [
+   "Bucharest"
+  ],
+  "languages": [
+   "Romanian"
+  ],
+  "currency": [
+   "Romanian leu"
+  ],
+  "population": {
+   "value": 19053815,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Mămăligă",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "RS": {
+  "name": "Serbia",
+  "wikidata": "Q403",
+  "wikipedia_title": "Serbia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Serbia",
+  "capital": [
+   "Belgrade"
+  ],
+  "languages": [
+   "Serbian"
+  ],
+  "currency": [
+   "Serbian dinar"
+  ],
+  "population": {
+   "value": 6605168,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Ćevapčići",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "RU": {
+  "name": "Russia",
+  "wikidata": "Q159",
+  "wikipedia_title": "Russia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Russia",
+  "capital": [
+   "Moscow"
+  ],
+  "languages": [
+   "Russian"
+  ],
+  "currency": [
+   "Russian ruble"
+  ],
+  "population": {
+   "value": 146119928,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Beef stroganoff",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "RW": {
+  "name": "Rwanda",
+  "wikidata": "Q1037",
+  "wikipedia_title": "Rwanda",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rwanda",
+  "capital": [
+   "Kigali"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Kinyarwanda",
+   "Swahili"
+  ],
+  "currency": [
+   "Rwandan franc"
+  ],
+  "population": {
+   "value": 14569341,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Isombe",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SA": {
+  "name": "Saudi Arabia",
+  "wikidata": "Q851",
+  "wikipedia_title": "Saudi Arabia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+  "capital": [
+   "Riyadh"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Saudi riyal"
+  ],
+  "population": {
+   "value": 33000000,
+   "year": 2018
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Saleeg",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SB": {
+  "name": "Solomon Islands",
+  "wikidata": "Q685",
+  "wikipedia_title": "Solomon Islands",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+  "capital": [
+   "Honiara"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Solomon Islands dollar"
+  ],
+  "population": {
+   "value": 611343,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "SC": {
+  "name": "Seychelles",
+  "wikidata": "Q1042",
+  "wikipedia_title": "Seychelles",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Seychelles",
+  "capital": [
+   "Victoria"
+  ],
+  "languages": [
+   "English",
+   "French",
+   "Seychellois Creole"
+  ],
+  "currency": [
+   "Seychellois rupee"
+  ],
+  "population": {
+   "value": 119773,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "SD": {
+  "name": "Sudan",
+  "wikidata": "Q1049",
+  "wikipedia_title": "Sudan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sudan",
+  "capital": [
+   "Khartoum"
+  ],
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "currency": [
+   "Sudanese pound"
+  ],
+  "population": {
+   "value": 40533330,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "SE": {
+  "name": "Sweden",
+  "wikidata": "Q34",
+  "wikipedia_title": "Sweden",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sweden",
+  "capital": [
+   "Stockholm"
+  ],
+  "languages": [
+   "Swedish"
+  ],
+  "currency": [
+   "Swedish krona"
+  ],
+  "population": {
+   "value": 10609460,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Köttbullar",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SG": {
+  "name": "Singapore",
+  "wikidata": "Q334",
+  "wikipedia_title": "Singapore",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Singapore",
+  "capital": [
+   "Singapore"
+  ],
+  "languages": [
+   "English",
+   "Malay",
+   "Standard Chinese",
+   "Tamil"
+  ],
+  "currency": [
+   "Singapore dollar"
+  ],
+  "population": {
+   "value": 5866139,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Chilli crab",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SI": {
+  "name": "Slovenia",
+  "wikidata": "Q215",
+  "wikipedia_title": "Slovenia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Slovenia",
+  "capital": [
+   "Ljubljana"
+  ],
+  "languages": [
+   "Slovene"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 2066880,
+   "year": 2018
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Cremeschnitte",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SK": {
+  "name": "Slovakia",
+  "wikidata": "Q214",
+  "wikipedia_title": "Slovakia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Slovakia",
+  "capital": [
+   "Bratislava"
+  ],
+  "languages": [
+   "Slovak"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 5409407,
+   "year": 2025
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Pirohy",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SL": {
+  "name": "Sierra Leone",
+  "wikidata": "Q1044",
+  "wikipedia_title": "Sierra Leone",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sierra_Leone",
+  "capital": [
+   "Freetown"
+  ],
+  "languages": [
+   "English",
+   "Krio"
+  ],
+  "currency": [
+   "leone"
+  ],
+  "population": {
+   "value": 7557212,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "SM": {
+  "name": "San Marino",
+  "wikidata": "Q238",
+  "wikipedia_title": "San Marino",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/San_Marino",
+  "capital": [
+   "San Marino"
+  ],
+  "languages": [
+   "Italian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 34167,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Torta tre monti",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SN": {
+  "name": "Senegal",
+  "wikidata": "Q1041",
+  "wikipedia_title": "Senegal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Senegal",
+  "capital": [
+   "Dakar"
+  ],
+  "languages": [
+   "Badyara",
+   "Balanta",
+   "French",
+   "Wolof"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 16876720,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Thieboudienne",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SO": {
+  "name": "Somalia",
+  "wikidata": "Q1045",
+  "wikipedia_title": "Somalia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Somalia",
+  "capital": [
+   "Mogadishu"
+  ],
+  "languages": [
+   "Arabic",
+   "Somali"
+  ],
+  "currency": [
+   "Somali shilling"
+  ],
+  "population": {
+   "value": 11031386,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Bariis Iskukaris",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SR": {
+  "name": "Suriname",
+  "wikidata": "Q730",
+  "wikipedia_title": "Suriname",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Suriname",
+  "capital": [
+   "Paramaribo"
+  ],
+  "languages": [
+   "Dutch"
+  ],
+  "currency": [
+   "Surinamese dollar"
+  ],
+  "population": {
+   "value": 563402,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Pom",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SS": {
+  "name": "South Sudan",
+  "wikidata": "Q958",
+  "wikipedia_title": "South Sudan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/South_Sudan",
+  "capital": [
+   "Juba"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "South Sudanese pound"
+  ],
+  "population": {
+   "value": 12575714,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "ST": {
+  "name": "São Tomé and Príncipe",
+  "wikidata": "Q1039",
+  "wikipedia_title": "São Tomé and Príncipe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe",
+  "capital": [
+   "São Tomé"
+  ],
+  "languages": [
+   "Portuguese"
+  ],
+  "currency": [
+   "São Tomé and Príncipe dobra"
+  ],
+  "population": {
+   "value": 204327,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "SV": {
+  "name": "El Salvador",
+  "wikidata": "Q792",
+  "wikipedia_title": "El Salvador",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/El_Salvador",
+  "capital": [
+   "San Salvador"
+  ],
+  "languages": [
+   "Spanish"
+  ],
+  "currency": [
+   "Bitcoin",
+   "United States dollar"
+  ],
+  "population": {
+   "value": 6029976,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Pupusa",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SY": {
+  "name": "Syria",
+  "wikidata": "Q858",
+  "wikipedia_title": "Syria",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Syria",
+  "capital": [
+   "Damascus"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Syrian pound"
+  ],
+  "population": {
+   "value": 23865423,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Kibbeh",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "SZ": {
+  "name": "Eswatini",
+  "wikidata": "Q1050",
+  "wikipedia_title": "Eswatini",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eswatini",
+  "capital": [
+   "Lobamba",
+   "Mbabane"
+  ],
+  "languages": [
+   "English",
+   "Swazi"
+  ],
+  "currency": [
+   "lilangeni"
+  ],
+  "population": {
+   "value": 1230506,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Shisa Nyama",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TD": {
+  "name": "Chad",
+  "wikidata": "Q657",
+  "wikipedia_title": "Chad",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chad",
+  "capital": [
+   "N'Djamena"
+  ],
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currency": [
+   "Central African CFA franc"
+  ],
+  "population": {
+   "value": 19319064,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Boule",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TG": {
+  "name": "Togo",
+  "wikidata": "Q945",
+  "wikipedia_title": "Togo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Togo",
+  "capital": [
+   "Lomé"
+  ],
+  "languages": [
+   "French"
+  ],
+  "currency": [
+   "West African CFA franc"
+  ],
+  "population": {
+   "value": 7797694,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Fufu",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TH": {
+  "name": "Thailand",
+  "wikidata": "Q869",
+  "wikipedia_title": "Thailand",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thailand",
+  "capital": [
+   "Bangkok"
+  ],
+  "languages": [
+   "Thai"
+  ],
+  "currency": [
+   "baht"
+  ],
+  "population": {
+   "value": 66188503,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Pad thai",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TJ": {
+  "name": "Tajikistan",
+  "wikidata": "Q863",
+  "wikipedia_title": "Tajikistan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tajikistan",
+  "capital": [
+   "Dushanbe"
+  ],
+  "languages": [
+   "Tajik"
+  ],
+  "currency": [
+   "Tajikistani somoni"
+  ],
+  "population": {
+   "value": 9504000,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Osh palov",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TL": {
+  "name": "Timor-Leste",
+  "wikidata": "Q574",
+  "wikipedia_title": "Timor-Leste",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Timor-Leste",
+  "capital": [
+   "Dili"
+  ],
+  "languages": [
+   "Portuguese",
+   "Tetum"
+  ],
+  "currency": [
+   "East Timor centavo coins",
+   "United States dollar"
+  ],
+  "population": {
+   "value": 1400638,
+   "year": 2024
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "TM": {
+  "name": "Turkmenistan",
+  "wikidata": "Q874",
+  "wikipedia_title": "Turkmenistan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Turkmenistan",
+  "capital": [
+   "Ashgabat"
+  ],
+  "languages": [
+   "Turkmen"
+  ],
+  "currency": [
+   "Turkmenistan new manat"
+  ],
+  "population": {
+   "value": 6117933,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "TN": {
+  "name": "Tunisia",
+  "wikidata": "Q948",
+  "wikipedia_title": "Tunisia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tunisia",
+  "capital": [
+   "Tunis"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Tunisian dinar"
+  ],
+  "population": {
+   "value": 11565204,
+   "year": 2018
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Couscous",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TO": {
+  "name": "Tonga",
+  "wikidata": "Q678",
+  "wikipedia_title": "Tonga",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tonga",
+  "capital": [
+   "Nukuʻalofa"
+  ],
+  "languages": [
+   "English",
+   "Tongan"
+  ],
+  "currency": [
+   "Tongan paʻanga"
+  ],
+  "population": {
+   "value": 108020,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "'ota 'ika",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TR": {
+  "name": "Turkey",
+  "wikidata": "Q43",
+  "wikipedia_title": "Turkey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Turkey",
+  "capital": [
+   "Ankara"
+  ],
+  "languages": [
+   "Turkish"
+  ],
+  "currency": [
+   "Turkish lira"
+  ],
+  "population": {
+   "value": 85372377,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Doner kebab",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TT": {
+  "name": "Trinidad and Tobago",
+  "wikidata": "Q754",
+  "wikipedia_title": "Trinidad and Tobago",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+  "capital": [
+   "Port of Spain"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Trinidad and Tobago dollar"
+  ],
+  "population": {
+   "value": 1369125,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Doubles",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TV": {
+  "name": "Tuvalu",
+  "wikidata": "Q672",
+  "wikipedia_title": "Tuvalu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tuvalu",
+  "capital": [
+   "Funafuti"
+  ],
+  "languages": [
+   "English",
+   "Tuvaluan"
+  ],
+  "currency": [
+   "Australian dollar",
+   "Tuvaluan dollar"
+  ],
+  "population": {
+   "value": 10643,
+   "year": 2022
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Pulaka",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TW": {
+  "name": "Taiwan",
+  "wikidata": "Q865",
+  "wikipedia_title": "Taiwan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Taiwan",
+  "capital": [
+   "Taipei"
+  ],
+  "languages": [
+   "Amis",
+   "Atayal",
+   "Bunun",
+   "Kanakanavu",
+   "Kavalan",
+   "Kinmen dialect",
+   "Matsu dialect",
+   "Paiwan",
+   "Puyuma",
+   "Rukai",
+   "Saaroa",
+   "Saisiyat",
+   "Sakizaya",
+   "Seediq",
+   "Standard Taiwanese Mandarin",
+   "Taiwanese Hakka",
+   "Taiwanese Hokkien",
+   "Taiwanese Sign Language",
+   "Truku",
+   "Tsou",
+   "Wuqiu dialect",
+   "Yami"
+  ],
+  "currency": [
+   "New Taiwan dollar"
+  ],
+  "population": {
+   "value": 23262544,
+   "year": 2026
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Beef noodle soup",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "TZ": {
+  "name": "Tanzania",
+  "wikidata": "Q924",
+  "wikipedia_title": "Tanzania",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tanzania",
+  "capital": [
+   "Dodoma"
+  ],
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currency": [
+   "Tanzanian shilling"
+  ],
+  "population": {
+   "value": 57310019,
+   "year": 2017
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Chipsi mayai",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "UA": {
+  "name": "Ukraine",
+  "wikidata": "Q212",
+  "wikipedia_title": "Ukraine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ukraine",
+  "capital": [
+   "Kyiv"
+  ],
+  "languages": [
+   "Ukrainian"
+  ],
+  "currency": [
+   "hryvnia"
+  ],
+  "population": {
+   "value": 41167335,
+   "year": 2022
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Borscht",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "UG": {
+  "name": "Uganda",
+  "wikidata": "Q1036",
+  "wikipedia_title": "Uganda",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Uganda",
+  "capital": [
+   "Kampala"
+  ],
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currency": [
+   "Ugandan shilling"
+  ],
+  "population": {
+   "value": 47123531,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Matooke",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "US": {
+  "name": "United States",
+  "wikidata": "Q30",
+  "wikipedia_title": "United States",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/United_States",
+  "capital": [
+   "Washington, D.C."
+  ],
+  "languages": [
+   "Carolinian",
+   "Chamorro",
+   "Hawaiian",
+   "Samoan",
+   "Spanish"
+  ],
+  "currency": [
+   "United States dollar"
+  ],
+  "population": {
+   "value": 340110988,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Apple pie",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "UY": {
+  "name": "Uruguay",
+  "wikidata": "Q77",
+  "wikipedia_title": "Uruguay",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Uruguay",
+  "capital": [
+   "Montevideo"
+  ],
+  "currency": [
+   "Uruguayan peso"
+  ],
+  "population": {
+   "value": 3444263,
+   "year": 2023
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Chivito",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "UZ": {
+  "name": "Uzbekistan",
+  "wikidata": "Q265",
+  "wikipedia_title": "Uzbekistan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Uzbekistan",
+  "capital": [
+   "Tashkent"
+  ],
+  "languages": [
+   "Uzbek"
+  ],
+  "currency": [
+   "Uzbek som"
+  ],
+  "population": {
+   "value": 34915100,
+   "year": 2021
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Uzbek Plov",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "VA": {
+  "name": "Vatican City",
+  "wikidata": "Q237",
+  "wikipedia_title": "Vatican City",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vatican_City",
+  "capital": [
+   "Vatican City"
+  ],
+  "languages": [
+   "Italian",
+   "Latin"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 882,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Fettuccine alla Papalina",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "VC": {
+  "name": "Saint Vincent and the Grenadines",
+  "wikidata": "Q757",
+  "wikipedia_title": "Saint Vincent and the Grenadines",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+  "capital": [
+   "Kingstown"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Eastern Caribbean dollar"
+  ],
+  "population": {
+   "value": 109296,
+   "year": 2023
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "VE": {
+  "name": "Venezuela",
+  "wikidata": "Q717",
+  "wikipedia_title": "Venezuela",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Venezuela",
+  "capital": [
+   "Caracas"
+  ],
+  "languages": [
+   "Spanish",
+   "Venezuelan Sign Language"
+  ],
+  "currency": [
+   "sovereign bolivar"
+  ],
+  "population": {
+   "value": 31250306,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Pabellón criollo",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "VN": {
+  "name": "Vietnam",
+  "wikidata": "Q881",
+  "wikipedia_title": "Vietnam",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam",
+  "capital": [
+   "Hanoi"
+  ],
+  "languages": [
+   "Vietnamese"
+  ],
+  "currency": [
+   "Vietnamese đồng"
+  ],
+  "population": {
+   "value": 96208984,
+   "year": 2019
+  },
+  "driving_side": [
+   "right"
+  ]
+ },
+ "VU": {
+  "name": "Vanuatu",
+  "wikidata": "Q686",
+  "wikipedia_title": "Vanuatu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vanuatu",
+  "capital": [
+   "Port Vila"
+  ],
+  "languages": [
+   "Bislama",
+   "English",
+   "French"
+  ],
+  "currency": [
+   "Vanuatu vatus"
+  ],
+  "population": {
+   "value": 300019,
+   "year": 2020
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Laplap",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "WS": {
+  "name": "Samoa",
+  "wikidata": "Q683",
+  "wikipedia_title": "Samoa",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Samoa",
+  "capital": [
+   "Apia"
+  ],
+  "languages": [
+   "English",
+   "Samoan"
+  ],
+  "currency": [
+   "Samoan tālā"
+  ],
+  "population": {
+   "value": 200010,
+   "year": 2021
+  },
+  "driving_side": [
+   "left"
+  ]
+ },
+ "XK": {
+  "name": "Kosovo",
+  "wikidata": "Q1246",
+  "wikipedia_title": "Kosovo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kosovo",
+  "capital": [
+   "Pristina"
+  ],
+  "languages": [
+   "Albanian",
+   "Serbian"
+  ],
+  "currency": [
+   "euro"
+  ],
+  "population": {
+   "value": 1586659,
+   "year": 2024
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Flia",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "YE": {
+  "name": "Yemen",
+  "wikidata": "Q805",
+  "wikipedia_title": "Yemen",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yemen",
+  "capital": [
+   "Aden",
+   "Sanaa"
+  ],
+  "languages": [
+   "Arabic"
+  ],
+  "currency": [
+   "Yemeni rial"
+  ],
+  "population": {
+   "value": 28250420,
+   "year": 2017
+  },
+  "driving_side": [
+   "right"
+  ],
+  "dish": {
+   "name": "Saltah",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ZA": {
+  "name": "South Africa",
+  "wikidata": "Q258",
+  "wikipedia_title": "South Africa",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/South_Africa",
+  "capital": [
+   "Bloemfontein",
+   "Cape Town",
+   "Pretoria"
+  ],
+  "languages": [
+   "Afrikaans",
+   "English",
+   "Northern Sotho",
+   "Sesotho",
+   "South African Sign Language",
+   "Southern Ndebele",
+   "Swazi",
+   "Tsonga",
+   "Tswana",
+   "Venda",
+   "Xhosa",
+   "Zulu"
+  ],
+  "currency": [
+   "rand"
+  ],
+  "population": {
+   "value": 62027503,
+   "year": 2022
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Bobotie",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ZM": {
+  "name": "Zambia",
+  "wikidata": "Q953",
+  "wikipedia_title": "Zambia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zambia",
+  "capital": [
+   "Lusaka"
+  ],
+  "languages": [
+   "English"
+  ],
+  "currency": [
+   "Zambian Kwacha"
+  ],
+  "population": {
+   "value": 19610769,
+   "year": 2022
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Nshima",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ },
+ "ZW": {
+  "name": "Zimbabwe",
+  "wikidata": "Q954",
+  "wikipedia_title": "Zimbabwe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zimbabwe",
+  "capital": [
+   "Harare"
+  ],
+  "languages": [
+   "Barwe",
+   "Chewa",
+   "English",
+   "Kalanga",
+   "Khoisan",
+   "Nambya",
+   "Ndau",
+   "Northern Ndebele",
+   "Sesotho",
+   "Shona",
+   "Tonga",
+   "Tsonga",
+   "Tswana",
+   "Venda",
+   "Xhosa",
+   "Zimbabwe Sign Language"
+  ],
+  "currency": [
+   "Australian dollar",
+   "Indian rupee",
+   "United States dollar",
+   "Zimbabwe ZiG",
+   "Zimbabwean dollar",
+   "euro",
+   "pound sterling",
+   "rand",
+   "renminbi",
+   "yen"
+  ],
+  "population": {
+   "value": 15178979,
+   "year": 2022
+  },
+  "driving_side": [
+   "left"
+  ],
+  "dish": {
+   "name": "Sadza",
+   "source_url": "https://en.wikipedia.org/wiki/National_dish"
+  }
+ }
+}
