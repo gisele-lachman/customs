@@ -1,6 +1,6 @@
 # Customs
 
-A cultural situation coach. Describe a situation, such as a dinner with a client's boss in Seoul. Customs looks things up on Wikipedia and gives you a short do/don't card. Each tip is linked to its source and explains the history behind the custom.
+**Customs** is an AI etiquette coach for travelers and hosts. Describe a situation, such as a business dinner with a client's boss in Seoul or a wedding in India, and Visa, a vintage flight attendant, researches Wikipedia and returns a short card of polite do's and don'ts. Each tip links to its source, explains the history behind the custom, and quotes the page word for word. Every quote is checked against what was actually fetched before you see it.
 
 ## Setup (about 5 minutes)
 

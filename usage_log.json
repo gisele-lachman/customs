@@ -7073,5 +7073,2024 @@
     "cost_usd": 0.0,
     "models": [],
     "outcome": "refused: daily budget reached"
+  },
+  {
+    "time": "2026-10-26T16:30:45+00:00",
+    "source": "web",
+    "situation": "Meeting my best friend's parents in Russia.",
+    "tool_calls": [
+      {
+        "tool": "search",
+        "query": "Etiquette in Russia",
+        "results": [
+          "Grand Duchess Anna Petrovna of Russia",
+          "Anna Pavlovna of Russia",
+          "Superstitions of Russians",
+          "East Slavic name",
+          "Catherine the Great"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Russian culture family greeting hospitality",
+        "results": [
+          "Hospitality",
+          "Bread and salt",
+          "Handshake",
+          "Russian cuisine",
+          "Eid al-Fitr"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Russian naming conventions patronymic",
+        "results": [
+          "Patronymic",
+          "East Slavic name",
+          "Personal name",
+          "Icelandic name",
+          "Azerbaijani name"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "East Slavic name",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/East_Slavic_name",
+        "page_title": "East Slavic name"
+      },
+      {
+        "tool": "fetch",
+        "title": "Russian cuisine",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Russian_cuisine",
+        "page_title": "Russian cuisine"
+      },
+      {
+        "tool": "fetch",
+        "title": "Superstitions of Russians",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Superstitions_of_Russians",
+        "page_title": "Superstitions of Russians"
+      }
+    ],
+    "tokens": {
+      "input": 10970,
+      "cached": 3434,
+      "cache_write": 6464,
+      "output": 805,
+      "requests": 4
+    },
+    "cost_usd": 0.00135204,
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "agent": {
+      "input": 10276,
+      "cached": 3434,
+      "cache_write": 6464,
+      "output": 667,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 3,
+      "cost_usd": 0.00121364,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 1322,
+          "cached": 0,
+          "cache_write": 1196,
+          "output": 74,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0001991,
+          "asked_for": [
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Etiquette in Russia"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Russian culture family greeting hospitality"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Russian naming conventions patronymic"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 2364,
+          "cached": 1196,
+          "cache_write": 1042,
+          "output": 70,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00018981,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "East Slavic name"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Russian cuisine"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Superstitions of Russians"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 6590,
+          "cached": 2238,
+          "cache_write": 4226,
+          "output": 523,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00082473,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "on_topic": true,
+                "greeting": "Welcome aboard, dear traveler; let us prepare you for a warm first meeting with your friend’s parents in Russia.",
+                "title": "Meeting your friend’s parents in Russia",
+                "message": "",
+                "tips": [
+                  {
+                    "kind": "do",
+                    "tip": "If you learn a parent’s full name, it is courteous to use their given name and patronymic in a more formal first meeting.",
+                    "why": "In East Slavic naming customs, the patronymic follows the given name and is used when addressing someone of higher social standing or on special occasions.",
+                    "source_title": "East Slavic name",
+                    "source_url": "https://en.wikipedia.org/wiki/East_Slavic_name",
+                    "evidence": "The patronymic name is obligatory when addressing a person of higher social stance and/or on special occasions",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "It is considered more courteous not to use a very familiar nickname unless the parents invite you to do so.",
+                    "why": "Short and diminutive forms can convey different degrees of familiarity; colloquial diminutives may be considered rude outside a friendly context.",
+                    "source_title": "East Slavic name",
+                    "source_url": "https://en.wikipedia.org/wiki/East_Slavic_name",
+                    "evidence": "Expressing a highly familiar attitude, the use may be considered rude or even pejorative outside a friendly context.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If you are invited to share a meal, show interest in the dishes and follow your hosts’ lead around the table.",
+                    "why": "Russian cuisine has long-standing food traditions, while dishes and cooking practices also vary by region and cultural community.",
+                    "source_title": "Russian cuisine",
+                    "source_url": "https://en.wikipedia.org/wiki/Russian_cuisine",
+                    "evidence": "The Russian cuisine itself is also geographically diverse, its variations dependent on raw materials and cooking methods available locally.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "If a toast is made, it is considered more courteous not to raise an empty glass.",
+                    "why": "A folk belief in Russia associates making a toast with an empty glass with bad luck; the influence of such traditions differs by region and age.",
+                    "source_title": "Superstitions of Russians",
+                    "source_url": "https://en.wikipedia.org/wiki/Superstitions_of_Russians",
+                    "evidence": "It is considered bad luck to make a toast with an empty glass.",
+                    "variation": "varies"
+                  }
+                ],
+                "closing": "Wishing you a most pleasant visit, dear traveler; your friend’s family will be your best guide to their own preferences."
+              }
+            }
+          ]
+        }
+      ],
+      "seconds": 16.06
+    },
+    "checker": {
+      "input": 694,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 138,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 1,
+      "cost_usd": 0.0001384,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 694,
+          "cached": 0,
+          "cache_write": 0,
+          "output": 138,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0001384,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "verdicts": [
+                  {
+                    "id": 0,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly says patronymics are obligatory for higher-status address and special occasions."
+                  },
+                  {
+                    "id": 1,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Supports avoiding familiar forms outside friendly contexts, but not specifically requiring an invitation."
+                  },
+                  {
+                    "id": 2,
+                    "support": "not",
+                    "custom": "yes",
+                    "reason": "Excerpt describes regional cuisine differences, not table etiquette or showing interest."
+                  },
+                  {
+                    "id": 3,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly identifies toasting with an empty glass as bad luck."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "enabled": true,
+      "before": 4,
+      "kept": 3,
+      "partly": 1,
+      "fully_checked": true,
+      "seconds": 2.2,
+      "removed": [
+        {
+          "kind": "do",
+          "tip": "If you are invited to share a meal, show interest in the dishes and follow your hosts’ lead around the table.",
+          "source_title": "Russian cuisine",
+          "evidence": "The Russian cuisine itself is also geographically diverse, its variations dependent on raw materials and cooking methods available locally.",
+          "stage": "model",
+          "reason": "excerpt does not support the tip (Excerpt describes regional cuisine differences, not table etiquette or showing interest.)",
+          "verdict": {
+            "id": 2,
+            "support": "not",
+            "custom": "yes",
+            "reason": "Excerpt describes regional cuisine differences, not table etiquette or showing interest."
+          }
+        }
+      ],
+      "model_error": null
+    },
+    "outcome": "ok",
+    "limited_coverage": true
+  },
+  {
+    "time": "2026-10-26T16:31:29+00:00",
+    "source": "web",
+    "situation": "Meeting my best friend's parents in Japan.",
+    "tool_calls": [
+      {
+        "tool": "search",
+        "query": "Etiquette in Japan",
+        "results": [
+          "Etiquette in Japan",
+          "Customs and etiquette in Japanese dining",
+          "Bowing in Japan",
+          "Etiquette in Europe",
+          "Etiquette in South Korea"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Japanese greeting bowing",
+        "results": [
+          "Bowing",
+          "Greeting",
+          "Japanese profanity",
+          "Bowing in Japan",
+          "Etiquette in Japan"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Japanese gift-giving",
+        "results": [
+          "Gift",
+          "Etiquette in Japan",
+          "Giri (Japanese)",
+          "Shūgi-bukuro",
+          "Giri choco"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Bowing in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Bowing_in_Japan",
+        "page_title": "Bowing in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Customs and etiquette in Japanese dining",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+        "page_title": "Customs and etiquette in Japanese dining"
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": "Greetings",
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      }
+    ],
+    "tokens": {
+      "input": 18519,
+      "cached": 11217,
+      "cache_write": 5858,
+      "output": 1237,
+      "requests": 5
+    },
+    "cost_usd": 0.00160732,
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "agent": {
+      "input": 17579,
+      "cached": 11217,
+      "cache_write": 5858,
+      "output": 1009,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 4,
+      "cost_usd": 0.00139932,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 1322,
+          "cached": 1184,
+          "cache_write": 12,
+          "output": 72,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 6.194e-05,
+          "asked_for": [
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Japanese greeting bowing"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Japanese gift-giving"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 2335,
+          "cached": 1196,
+          "cache_write": 1013,
+          "output": 74,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00018819,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Bowing in Japan"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Customs and etiquette in Japanese dining"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 6754,
+          "cached": 2209,
+          "cache_write": 4419,
+          "output": 25,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00059957,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan",
+                "section": "Greetings"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 7168,
+          "cached": 6628,
+          "cache_write": 414,
+          "output": 838,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00054963,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "on_topic": true,
+                "greeting": "Welcome aboard, dear traveler; let us prepare you for a warm introduction to your friend’s family in Japan.",
+                "title": "Meeting your friend’s parents in Japan",
+                "message": "",
+                "tips": [
+                  {
+                    "kind": "do",
+                    "tip": "Offer a warm, attentive greeting; a modest bow is a thoughtful way to show respect.",
+                    "why": "Bowing is an established social gesture that expresses respect, and its forms range from casual to formal.",
+                    "source_title": "Bowing in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Bowing_in_Japan",
+                    "evidence": "Bowing in Japan (お辞儀, Ojigi) is the act of lowering one's head or the upper part of the torso, commonly used as a sign of salutation, reverence, apology or gratitude",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If you know the time-appropriate greeting, use it; a friendly, energetic greeting is appreciated.",
+                    "why": "Greetings are treated as an important part of social interaction, with different phrases used at different times of day.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Greetings are considered to be of extreme importance in Japanese culture.",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "Follow your hosts’ lead at the entrance and remove your shoes when entering the home.",
+                    "why": "Removing shoes at the genkan helps keep soil and dust from entering the home; slippers may be offered instead.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Shoes are never worn inside the home – this ensures that the floor is not stained by soil, sand or dust",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If a meal is served, say “itadakimasu” before eating and “gochisōsama deshita” afterward, if comfortable doing so.",
+                    "why": "These expressions mark gratitude for the food and for those involved in preparing it.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Meals in Japan traditionally begin with the word itadakimasu (いただきます, lit. 'I humbly receive').",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "At a shared meal, avoid passing food directly from one pair of chopsticks to another.",
+                    "why": "This gesture is associated with the handling of bones after cremation, so another serving method is more considerate.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "it is considered particularly taboo to pass food from chopsticks to chopsticks",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If you bring a small gift, offer it graciously and let your hosts decide whether to open it then.",
+                    "why": "Receiving a gift can carry a sense of obligation, and recipients may defer opening one rather than ask to do so.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Many people will ask a guest to open a gift, but if they do not, the recipient will resist the urge to ask if they can open the gift.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If you are invited to sit on tatami, remove footwear before stepping onto it and follow your hosts’ seating cues.",
+                    "why": "Tatami can be damaged by footwear, and seating customs differ between traditional floor seating and Western-style tables.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "shoes or any type of footwear are always taken off when stepping on tatami floors.",
+                    "variation": "varies"
+                  }
+                ],
+                "closing": "I wish you a pleasant visit, dear traveler; your hosts’ own guidance will be the best compass."
+              }
+            }
+          ]
+        }
+      ],
+      "seconds": 19.46
+    },
+    "checker": {
+      "input": 940,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 228,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 1,
+      "cost_usd": 0.000208,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 940,
+          "cached": 0,
+          "cache_write": 0,
+          "output": 228,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.000208,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "verdicts": [
+                  {
+                    "id": 0,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt identifies bowing as a common salutation and sign of reverence."
+                  },
+                  {
+                    "id": 1,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports greeting importance, but not time-specific phrases or energetic delivery."
+                  },
+                  {
+                    "id": 2,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt says shoes are not worn inside the home."
+                  },
+                  {
+                    "id": 3,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports saying itadakimasu before meals, not the after-meal phrase."
+                  },
+                  {
+                    "id": 4,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt explicitly identifies passing food chopstick-to-chopstick as taboo."
+                  },
+                  {
+                    "id": 5,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports deferring to hosts on opening, but not the offering advice."
+                  },
+                  {
+                    "id": 6,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports removing footwear on tatami, not following seating cues."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "enabled": true,
+      "before": 7,
+      "kept": 7,
+      "partly": 4,
+      "fully_checked": true,
+      "seconds": 3.77,
+      "removed": [],
+      "model_error": null
+    },
+    "outcome": "ok",
+    "limited_coverage": false
+  },
+  {
+    "time": "2026-10-26T16:34:38+00:00",
+    "source": "web",
+    "situation": "Going to Japan to study abroad.",
+    "tool_calls": [
+      {
+        "tool": "search",
+        "query": "Etiquette in Japan",
+        "results": [
+          "Etiquette in Japan",
+          "Customs and etiquette in Japanese dining",
+          "Bowing in Japan",
+          "Etiquette in Europe",
+          "Etiquette in South Korea"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Education in Japan international students",
+        "results": [
+          "Education in Japan",
+          "International student",
+          "Secondary education in Japan",
+          "Higher education in Japan",
+          "Temple University, Japan Campus"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Japanese language honorifics bowing",
+        "results": [
+          "Japanese profanity",
+          "Etiquette in Japan",
+          "Stereotypes of Japanese people",
+          "Senpai and kōhai",
+          "Black company (Japan)"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Customs and etiquette in Japanese dining",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+        "page_title": "Customs and etiquette in Japanese dining"
+      },
+      {
+        "tool": "fetch",
+        "title": "Education in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Education_in_Japan",
+        "page_title": "Education in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": "Greetings",
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      }
+    ],
+    "tokens": {
+      "input": 18524,
+      "cached": 11247,
+      "cache_write": 5885,
+      "output": 1199,
+      "requests": 5
+    },
+    "cost_usd": 0.00158679,
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "agent": {
+      "input": 17636,
+      "cached": 11247,
+      "cache_write": 5885,
+      "output": 972,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 4,
+      "cost_usd": 0.00138449,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 1321,
+          "cached": 1184,
+          "cache_write": 11,
+          "output": 75,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 6.331e-05,
+          "asked_for": [
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Education in Japan international students"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Japanese language honorifics bowing"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 2339,
+          "cached": 1195,
+          "cache_write": 1018,
+          "output": 73,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0001883,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Customs and etiquette in Japanese dining"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Education in Japan"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 6781,
+          "cached": 2213,
+          "cache_write": 4442,
+          "output": 25,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00060248,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan",
+                "section": "Greetings"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 7195,
+          "cached": 6655,
+          "cache_write": 414,
+          "output": 799,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0005304,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "on_topic": true,
+                "greeting": "Welcome aboard, dear traveler; let us prepare you for your studies in Japan.",
+                "title": "Studying abroad in Japan",
+                "message": "",
+                "tips": [
+                  {
+                    "kind": "do",
+                    "tip": "It is considered courteous to greet classmates and staff clearly; choose a greeting suited to the time of day and relationship.",
+                    "why": "Greetings are treated as important, and forms may vary with the relative social status of the speakers.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Different forms of these greetings may be used depending on the relative social statuses of the speaker and the listener.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "Offer a small bow when greeting or thanking someone, following the other person's lead in formality.",
+                    "why": "Bowing has long-standing roots in Japanese etiquette and the depth of the bow conveys differing degrees of respect.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Generally, the longer and deeper the bow, the stronger the emotion and respect expressed.",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "At a meal, say “itadakimasu” before eating and “gochisōsama-deshita” when finished.",
+                    "why": "These phrases express gratitude to those who provided the meal and to the person who prepared it.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Meals in Japan traditionally begin with the word itadakimasu",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "It is considered more courteous not to leave chopsticks standing vertically in a bowl of rice.",
+                    "why": "This arrangement resembles incense used in offerings to the dead, giving the gesture funeral associations.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "this behaviour, which is called Tate-bashi (たて箸; たてばし), resembles incense sticks",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "When sharing food from a communal dish, use the clean end of your chopsticks or a separate serving pair.",
+                    "why": "Using a separate end or serving utensils is presented as a more sanitary way to share food.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "one should turn the chopsticks around to touch the food; it is considered more sanitary.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "At a group toast, wait until everyone is served and the toast is made before drinking.",
+                    "why": "The meal custom treats drinking as a shared moment, with the toast marking when the group begins.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "Do not start drinking until everybody is served and has finished the toast.",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If invited into a home, remove your shoes at the entrance and follow your host's lead about slippers.",
+                    "why": "Removing outdoor footwear helps keep soil, sand, and dust from the home's floors; homes commonly provide indoor slippers.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Shoes are never worn inside the home – this ensures that the floor is not stained by soil, sand or dust",
+                    "variation": "widely followed"
+                  }
+                ],
+                "closing": "May your studies be rewarding, dear traveler, and your hosts’ own guidance be your surest compass."
+              }
+            }
+          ]
+        }
+      ],
+      "seconds": 28.37
+    },
+    "checker": {
+      "input": 888,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 227,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 1,
+      "cost_usd": 0.0002023,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 888,
+          "cached": 0,
+          "cache_write": 0,
+          "output": 227,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0002023,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "verdicts": [
+                  {
+                    "id": 0,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports status-sensitive greetings, not clearly time-appropriate greeting advice."
+                  },
+                  {
+                    "id": 1,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports bow depth conveying respect, not greeting or matching another's formality."
+                  },
+                  {
+                    "id": 2,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports saying itadakimasu before meals, but not the closing phrase."
+                  },
+                  {
+                    "id": 3,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt describes the practice and incense resemblance, but not its discourtesy."
+                  },
+                  {
+                    "id": 4,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly recommends turning chopsticks around as more sanitary."
+                  },
+                  {
+                    "id": 5,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly says to wait until everyone is served and the toast is finished."
+                  },
+                  {
+                    "id": 6,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly advises against shoes inside homes to prevent dirt."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "enabled": true,
+      "before": 7,
+      "kept": 7,
+      "partly": 4,
+      "fully_checked": true,
+      "seconds": 2.78,
+      "removed": [],
+      "model_error": null
+    },
+    "outcome": "ok",
+    "limited_coverage": false
+  },
+  {
+    "time": "2026-10-26T16:37:28+00:00",
+    "source": "web",
+    "situation": "Going to France to study abroad.",
+    "tool_calls": [
+      {
+        "tool": "search",
+        "query": "Etiquette in France",
+        "results": [
+          "Eating utensil etiquette",
+          "Etiquette",
+          "Etiquette in Europe",
+          "RSVP",
+          "Anne de Noailles (1729–1794)"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Education in France international students",
+        "results": [
+          "Education in France",
+          "International student",
+          "2026 French student protests",
+          "Programme for International Student Assessment",
+          "International students in Canada"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "French language greetings",
+        "results": [
+          "Greeting",
+          "Hello",
+          "Contents of the Voyager Golden Record",
+          "Greetings from Asbury Park, N.J.",
+          "Greetings from Your Hometown"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Education in France",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Education_in_France",
+        "page_title": "Education in France"
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Europe",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Europe",
+        "page_title": "Etiquette in Europe"
+      },
+      {
+        "tool": "fetch",
+        "title": "French language",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/French_language",
+        "page_title": "French language"
+      }
+    ],
+    "tokens": {
+      "input": 10522,
+      "cached": 4579,
+      "cache_write": 4761,
+      "output": 977,
+      "requests": 4
+    },
+    "cost_usd": 0.00124762,
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "agent": {
+      "input": 9718,
+      "cached": 4579,
+      "cache_write": 4761,
+      "output": 795,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 3,
+      "cost_usd": 0.00107622,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 1321,
+          "cached": 1184,
+          "cache_write": 11,
+          "output": 72,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 6.182e-05,
+          "asked_for": [
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Etiquette in France"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Education in France international students"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "French language greetings"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 2326,
+          "cached": 1195,
+          "cache_write": 1005,
+          "output": 68,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00018418,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Education in France"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Europe"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "French language"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 6071,
+          "cached": 2200,
+          "cache_write": 3745,
+          "output": 655,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00083022,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "on_topic": true,
+                "greeting": "Welcome aboard, dear traveler; let us prepare you for your studies in France.",
+                "title": "Studying abroad in France",
+                "message": "",
+                "tips": [
+                  {
+                    "kind": "do",
+                    "tip": "It is considered courteous to learn and use a few French greetings when meeting people.",
+                    "why": "French is the country’s principal language, shaped over centuries as regional varieties were gradually supplanted; a greeting in French can acknowledge that shared language.",
+                    "source_title": "French language",
+                    "source_url": "https://en.wikipedia.org/wiki/French_language",
+                    "evidence": "French largely supplanted most regional Romance varieties across France",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "When unsure how to address someone, begin formally and follow their lead, since levels of formality matter in many European languages.",
+                    "why": "Many languages distinguish familiar and formal forms of address, and usage can vary by language and region.",
+                    "source_title": "Etiquette in Europe",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Europe",
+                    "evidence": "Many languages use different 2nd person pronouns to denote formality or familiarity when addressing people",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "It is considered more courteous not to assume that one style of address fits everyone; avoid jumping to an overly familiar form.",
+                    "why": "European etiquette recognizes a distinction between formal and familiar address, and an inappropriately familiar form may be received poorly.",
+                    "source_title": "Etiquette in Europe",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Europe",
+                    "evidence": "The use of an inappropriately familiar form may be seen as derogatory, insulting or even aggressive.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "In conversation with classmates or colleagues, it is generally more courteous not to ask about someone’s salary or personal wealth.",
+                    "why": "Across many European settings, personal finances are treated as private, and asking about earnings is considered impolite.",
+                    "source_title": "Etiquette in Europe",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Europe",
+                    "evidence": "It is impolite to ask colleagues about their salary",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "Allow for regional and local differences rather than expecting one uniform set of customs throughout France.",
+                    "why": "European etiquette is not uniform, and differences can occur within a country, including across linguistic groups.",
+                    "source_title": "Etiquette in Europe",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Europe",
+                    "evidence": "within a single country there may be differences in customs",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "Check your institution’s own calendar and guidance when planning your studies, as school schedules and rules can depend on the institution or locality.",
+                    "why": "France’s national education framework is centrally organized, while the academic calendar outside metropolitan France is set locally.",
+                    "source_title": "Education in France",
+                    "source_url": "https://en.wikipedia.org/wiki/Education_in_France",
+                    "evidence": "Outside Metropolitan France, the school calendar is set by the local recteur.",
+                    "variation": "varies"
+                  }
+                ],
+                "closing": "Wishing you a rewarding term, dear traveler; your hosts’ own guidance always comes first."
+              }
+            }
+          ]
+        }
+      ],
+      "seconds": 15.49
+    },
+    "checker": {
+      "input": 804,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 182,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 1,
+      "cost_usd": 0.0001714,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 804,
+          "cached": 0,
+          "cache_write": 0,
+          "output": 182,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0001714,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "verdicts": [
+                  {
+                    "id": 0,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt establishes French prevalence, not specifically courteous greetings."
+                  },
+                  {
+                    "id": 1,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Supports formality distinctions, but not starting formally or following others’ lead."
+                  },
+                  {
+                    "id": 2,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly warns that overly familiar address may offend."
+                  },
+                  {
+                    "id": 3,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt explicitly says asking colleagues about salary is impolite."
+                  },
+                  {
+                    "id": 4,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt explicitly notes customs can differ within a country."
+                  },
+                  {
+                    "id": 5,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Supports local school-calendar variation, not institution-specific rules or guidance."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "enabled": true,
+      "before": 6,
+      "kept": 6,
+      "partly": 3,
+      "fully_checked": true,
+      "seconds": 2.27,
+      "removed": [],
+      "model_error": null
+    },
+    "outcome": "ok",
+    "limited_coverage": false
+  },
+  {
+    "time": "2026-10-26T16:37:52+00:00",
+    "source": "web",
+    "situation": "Going to Japan to study abroad.",
+    "tool_calls": [
+      {
+        "tool": "search",
+        "query": "Etiquette in Japan",
+        "results": [
+          "Etiquette in Japan",
+          "Customs and etiquette in Japanese dining",
+          "Bowing in Japan",
+          "Etiquette in Europe",
+          "Etiquette in South Korea"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Education in Japan international students",
+        "results": [
+          "Education in Japan",
+          "International student",
+          "Secondary education in Japan",
+          "Higher education in Japan",
+          "Temple University, Japan Campus"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Japanese language honorifics bowing",
+        "results": [
+          "Japanese profanity",
+          "Etiquette in Japan",
+          "Stereotypes of Japanese people",
+          "Senpai and kōhai",
+          "Black company (Japan)"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Customs and etiquette in Japanese dining",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+        "page_title": "Customs and etiquette in Japanese dining"
+      },
+      {
+        "tool": "fetch",
+        "title": "Education in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Education_in_Japan",
+        "page_title": "Education in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": "Greetings",
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      }
+    ],
+    "tokens": {
+      "input": 18524,
+      "cached": 11247,
+      "cache_write": 5885,
+      "output": 1199,
+      "requests": 5
+    },
+    "cost_usd": 0.00158679,
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "agent": {
+      "input": 17636,
+      "cached": 11247,
+      "cache_write": 5885,
+      "output": 972,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 4,
+      "cost_usd": 0.00138449,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 1321,
+          "cached": 1184,
+          "cache_write": 11,
+          "output": 75,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 6.331e-05,
+          "asked_for": [
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Education in Japan international students"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Japanese language honorifics bowing"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 2339,
+          "cached": 1195,
+          "cache_write": 1018,
+          "output": 73,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0001883,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Customs and etiquette in Japanese dining"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Education in Japan"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 6781,
+          "cached": 2213,
+          "cache_write": 4442,
+          "output": 25,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00060248,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan",
+                "section": "Greetings"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 7195,
+          "cached": 6655,
+          "cache_write": 414,
+          "output": 799,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0005304,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "on_topic": true,
+                "greeting": "Welcome aboard, dear traveler; let us prepare you for your studies in Japan.",
+                "title": "Studying abroad in Japan",
+                "message": "",
+                "tips": [
+                  {
+                    "kind": "do",
+                    "tip": "It is considered courteous to greet classmates and staff clearly; choose a greeting suited to the time of day and relationship.",
+                    "why": "Greetings are treated as important, and forms may vary with the relative social status of the speakers.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Different forms of these greetings may be used depending on the relative social statuses of the speaker and the listener.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "Offer a small bow when greeting or thanking someone, following the other person's lead in formality.",
+                    "why": "Bowing has long-standing roots in Japanese etiquette and the depth of the bow conveys differing degrees of respect.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Generally, the longer and deeper the bow, the stronger the emotion and respect expressed.",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "At a meal, say “itadakimasu” before eating and “gochisōsama-deshita” when finished.",
+                    "why": "These phrases express gratitude to those who provided the meal and to the person who prepared it.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Meals in Japan traditionally begin with the word itadakimasu",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "It is considered more courteous not to leave chopsticks standing vertically in a bowl of rice.",
+                    "why": "This arrangement resembles incense used in offerings to the dead, giving the gesture funeral associations.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "this behaviour, which is called Tate-bashi (たて箸; たてばし), resembles incense sticks",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "When sharing food from a communal dish, use the clean end of your chopsticks or a separate serving pair.",
+                    "why": "Using a separate end or serving utensils is presented as a more sanitary way to share food.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "one should turn the chopsticks around to touch the food; it is considered more sanitary.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "At a group toast, wait until everyone is served and the toast is made before drinking.",
+                    "why": "The meal custom treats drinking as a shared moment, with the toast marking when the group begins.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "Do not start drinking until everybody is served and has finished the toast.",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If invited into a home, remove your shoes at the entrance and follow your host's lead about slippers.",
+                    "why": "Removing outdoor footwear helps keep soil, sand, and dust from the home's floors; homes commonly provide indoor slippers.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Shoes are never worn inside the home – this ensures that the floor is not stained by soil, sand or dust",
+                    "variation": "widely followed"
+                  }
+                ],
+                "closing": "May your studies be rewarding, dear traveler, and your hosts’ own guidance be your surest compass."
+              }
+            }
+          ]
+        }
+      ],
+      "seconds": 9.82
+    },
+    "checker": {
+      "input": 888,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 227,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 1,
+      "cost_usd": 0.0002023,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 888,
+          "cached": 0,
+          "cache_write": 0,
+          "output": 227,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0002023,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "verdicts": [
+                  {
+                    "id": 0,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports status-sensitive greetings, not clearly time-appropriate greeting advice."
+                  },
+                  {
+                    "id": 1,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports bow depth conveying respect, not greeting or matching another's formality."
+                  },
+                  {
+                    "id": 2,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports saying itadakimasu before meals, but not the closing phrase."
+                  },
+                  {
+                    "id": 3,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt describes the practice and incense resemblance, but not its discourtesy."
+                  },
+                  {
+                    "id": 4,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly recommends turning chopsticks around as more sanitary."
+                  },
+                  {
+                    "id": 5,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly says to wait until everyone is served and the toast is finished."
+                  },
+                  {
+                    "id": 6,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt directly advises against shoes inside homes to prevent dirt."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "enabled": true,
+      "before": 7,
+      "kept": 7,
+      "partly": 4,
+      "fully_checked": true,
+      "seconds": 0.25,
+      "removed": [],
+      "model_error": null
+    },
+    "outcome": "ok",
+    "limited_coverage": false
+  },
+  {
+    "time": "2026-10-26T17:00:01+00:00",
+    "source": "web",
+    "situation": "Going to Japan to study abroad, what to know?",
+    "tool_calls": [
+      {
+        "tool": "search",
+        "query": "Etiquette in Japan",
+        "results": [
+          "Etiquette in Japan",
+          "Customs and etiquette in Japanese dining",
+          "Bowing in Japan",
+          "Etiquette in Europe",
+          "Etiquette in South Korea"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Study abroad in Japan student life",
+        "results": [
+          "International student",
+          "Indian students abroad",
+          "Kyoto Consortium for Japanese Studies",
+          "Temple University, Japan Campus",
+          "Secondary education in Japan"
+        ]
+      },
+      {
+        "tool": "search",
+        "query": "Japanese customs etiquette bowing",
+        "results": [
+          "Bowing in Japan",
+          "Etiquette in Japan",
+          "Bowing",
+          "Etiquette in Asia",
+          "Etiquette in South Korea"
+        ]
+      },
+      {
+        "tool": "fetch",
+        "title": "Etiquette in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+        "page_title": "Etiquette in Japan"
+      },
+      {
+        "tool": "fetch",
+        "title": "Customs and etiquette in Japanese dining",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+        "page_title": "Customs and etiquette in Japanese dining"
+      },
+      {
+        "tool": "fetch",
+        "title": "Bowing in Japan",
+        "section": null,
+        "found": true,
+        "url": "https://en.wikipedia.org/wiki/Bowing_in_Japan",
+        "page_title": "Bowing in Japan"
+      }
+    ],
+    "tokens": {
+      "input": 11393,
+      "cached": 4589,
+      "cache_write": 5441,
+      "output": 1268,
+      "requests": 4
+    },
+    "cost_usd": 0.00149632,
+    "models": [
+      "gpt-6-luna-global"
+    ],
+    "agent": {
+      "input": 10408,
+      "cached": 4589,
+      "cache_write": 5441,
+      "output": 1042,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 3,
+      "cost_usd": 0.00128482,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 1325,
+          "cached": 1184,
+          "cache_write": 15,
+          "output": 75,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 6.381e-05,
+          "asked_for": [
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Study abroad in Japan student life"
+              }
+            },
+            {
+              "tool": "search_tool",
+              "args": {
+                "query": "Japanese customs etiquette bowing"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 2332,
+          "cached": 1199,
+          "cache_write": 1007,
+          "output": 74,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00018746,
+          "asked_for": [
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Etiquette in Japan"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Customs and etiquette in Japanese dining"
+              }
+            },
+            {
+              "tool": "fetch_tool",
+              "args": {
+                "title": "Bowing in Japan"
+              }
+            }
+          ]
+        },
+        {
+          "model": "gpt-6-luna-global",
+          "input": 6751,
+          "cached": 2206,
+          "cache_write": 4419,
+          "output": 893,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.00103353,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "on_topic": true,
+                "greeting": "Welcome aboard, dear traveler; let us prepare you for your studies in Japan.",
+                "title": "Studying abroad in Japan",
+                "message": "",
+                "tips": [
+                  {
+                    "kind": "do",
+                    "tip": "Offer a small bow when greeting someone; a slight inclination is suitable for a casual greeting.",
+                    "why": "Bowing developed as a gesture of respect, with etiquette traditions shaped by Buddhist practice and later samurai conduct.",
+                    "source_title": "Bowing in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Bowing_in_Japan",
+                    "evidence": "Bowing in Japan (お辞儀, Ojigi) is the act of lowering one's head or the upper part of the torso, commonly used as a sign of salutation, reverence, apology or gratitude",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "At a meal, say “itadakimasu” before eating and “gochisōsama deshita” afterward to express thanks.",
+                    "why": "These phrases express gratitude to those who provided and prepared the food, including its ingredients and producers.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Meals in Japan traditionally begin with the word itadakimasu (いただきます, lit. 'I humbly receive').",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "dont",
+                    "tip": "Avoid sticking chopsticks upright in rice or passing food directly from chopsticks to chopsticks.",
+                    "why": "Upright chopsticks resemble incense placed in offerings for the dead, while passing food this way recalls the handling of bones after cremation.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "Chopsticks are never left sticking vertically into rice, as this behaviour, which is called Tate-bashi (たて箸; たてばし), resembles incense sticks",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "When sharing food, use the clean end of your chopsticks or a separate serving utensil, especially outside close-family settings.",
+                    "why": "Using a clean utensil for shared dishes is considered more sanitary; the practice may be more relaxed among family or close friends.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "When taking food from a communal dish, unless with family or very close friends, one should turn the chopsticks around to touch the food",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "Wait until everyone is served and the toast is made before drinking; in company, be ready to pour for others rather than yourself.",
+                    "why": "A shared “kanpai” marks the start of drinking, and pouring for one another is part of the described group custom.",
+                    "source_title": "Customs and etiquette in Japanese dining",
+                    "source_url": "https://en.wikipedia.org/wiki/Customs_and_etiquette_in_Japanese_dining",
+                    "evidence": "Do not start drinking until everybody is served and has finished the toast.",
+                    "variation": "varies"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "If invited into a home, remove your shoes at the entrance and follow your host’s lead about indoor slippers.",
+                    "why": "Removing outdoor footwear helps keep floors free of soil, sand, and dust; homes commonly have an entry area for this purpose.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Shoes are never worn inside the home – this ensures that the floor is not stained by soil, sand or dust",
+                    "variation": "widely followed"
+                  },
+                  {
+                    "kind": "do",
+                    "tip": "At a public bath, wash and rinse thoroughly before entering the shared tub.",
+                    "why": "The tub is for relaxing rather than washing, and its water is kept for other bathers’ use.",
+                    "source_title": "Etiquette in Japan",
+                    "source_url": "https://en.wikipedia.org/wiki/Etiquette_in_Japan",
+                    "evidence": "Therefore, the body must be cleaned and scrubbed before entering the bathtub or ofuro.",
+                    "variation": "varies"
+                  }
+                ],
+                "closing": "I wish you a most rewarding stay, dear traveler, and your host’s guidance should always come first."
+              }
+            }
+          ]
+        }
+      ],
+      "seconds": 16.75
+    },
+    "checker": {
+      "input": 985,
+      "cached": 0,
+      "cache_write": 0,
+      "output": 226,
+      "details": {
+        "reasoning_tokens": 0
+      },
+      "requests": 1,
+      "cost_usd": 0.0002115,
+      "models": [
+        "gpt-6-luna-global"
+      ],
+      "per_request": [
+        {
+          "model": "gpt-6-luna-global",
+          "input": 985,
+          "cached": 0,
+          "cache_write": 0,
+          "output": 226,
+          "details": {
+            "reasoning_tokens": 0
+          },
+          "cost_usd": 0.0002115,
+          "asked_for": [
+            {
+              "tool": "final_result",
+              "args": {
+                "verdicts": [
+                  {
+                    "id": 0,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt identifies bowing as a customary greeting and sign of reverence."
+                  },
+                  {
+                    "id": 1,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports saying itadakimasu, but says nothing about the closing phrase."
+                  },
+                  {
+                    "id": 2,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports avoiding upright chopsticks, but not passing food between chopsticks."
+                  },
+                  {
+                    "id": 3,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt recommends turning chopsticks around when serving oneself from communal dishes."
+                  },
+                  {
+                    "id": 4,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports waiting for the toast, not pouring drinks for others."
+                  },
+                  {
+                    "id": 5,
+                    "support": "partly",
+                    "custom": "yes",
+                    "reason": "Excerpt supports removing shoes indoors, but not entryway or slipper guidance."
+                  },
+                  {
+                    "id": 6,
+                    "support": "supported",
+                    "custom": "yes",
+                    "reason": "Excerpt says to clean and scrub before entering the bathtub."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "enabled": true,
+      "before": 7,
+      "kept": 7,
+      "partly": 4,
+      "fully_checked": true,
+      "seconds": 3.13,
+      "removed": [],
+      "model_error": null
+    },
+    "outcome": "ok",
+    "limited_coverage": false
   }
 ]
